@@ -1,0 +1,3 @@
+## Yellow zone {#yellow-zone}
+
+*   Last time we had been talking about red zone. Now, let’s start with yellow zone - dedicated for moments, where inner quality is not ensured: bigger events with partially verified clients from outside. These are mainly people which came to red zone as serious applicants for membership and passed [Intro], but these can be highly-paying clients without serious interest on membership, but which have been tested and passed clean from this testing against destructive intentions
