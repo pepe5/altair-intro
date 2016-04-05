@@ -1,6 +1,6 @@
 # Summary
 
-* [INTRO](README.md)
+* [ALTair](README.md)
 * [Fun on project namings](fun_on_project_namings/README.md)
   * [Basic values - statutes](fun_on_project_namings/basic_values_-_statutes.md)
 * [Basic structure of organization](basic_structure_of_organization/README.md)
