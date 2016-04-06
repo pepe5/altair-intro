@@ -1,3 +1,3 @@
 # ALTair {#intro}
 
-Implementation of social level of support of humanism
+Implementing social level of support of humanism
