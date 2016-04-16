@@ -11,6 +11,7 @@ We are now for example working on documentary movie about some exemplary attempt
 All of these projects are from our perspective partial-only, but we accept them simply as “partial projects”. Lets say that here are 2: 1/ small NGO/s and 2/ institutes:
 
 *   Plum Village - humanity wakening up contribution, small contact with true farming
+*   [TTZM](www.ic.org/directory/the-transcendent-zeitgeist-movement-ttzm/)
 *   Project Venus, Zeitgeist movement - tech understanding and solution contribution
 *   Ami Institute - humanity wakening up contribution
 *   [www.](http://www.wwoof.net)[**wwoof**](http://www.wwoof.net)[.net](http://www.wwoof.net) - enabling contact with good farming
