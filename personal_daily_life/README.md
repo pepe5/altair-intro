@@ -163,6 +163,8 @@ Basic principle is that:
 
 *   we already described, that people can have some big hoby - and then they can spend on that up-to 4 hrs (with 2 hrs of break)
 *   accountability limits and regulations ***
+  - up to 3hrs of "career work" (mentoring service-positions)
+  - "volunteering work" - no mentoring, no deals
 
 **_minimal work timings / minimal service revange_**
 
@@ -170,10 +172,6 @@ Basic principle is that:
 *   most of adults do it with pleasure - as time for relaxation / guided study exploration - children & newbies are guided to learn it to joyful way
 *   these obligatory 3 hrs are filled by carefully chosen activities - there are 3 check-points - if you do more than is described - you have to relax!
 *   these 3 hrs are meant as realization of “self-care” - on most-fundamental level: health, food, family. Next 3 hrs of work period are meant for “self-realization”: man should use them for attaining his/her wishes: if those are not used anyhow, man is couches if s/he has some troubles blocking his/her “self-realization” energy to flow.
-
-**_maximal work timing_**
-
-* 
 
 **_free time - occasional consumption resources_**
 
