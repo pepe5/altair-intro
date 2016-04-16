@@ -171,6 +171,10 @@ Basic principle is that:
 *   these obligatory 3 hrs are filled by carefully chosen activities - there are 3 check-points - if you do more than is described - you have to relax!
 *   these 3 hrs are meant as realization of “self-care” - on most-fundamental level: health, food, family. Next 3 hrs of work period are meant for “self-realization”: man should use them for attaining his/her wishes: if those are not used anyhow, man is couches if s/he has some troubles blocking his/her “self-realization” energy to flow.
 
+**_maximal work timing_**
+
+* 
+
 **_free time - occasional consumption resources_**
 
 *   we have also wishes about other things than “self-realization”, for example fun :)
