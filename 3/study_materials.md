@@ -44,5 +44,5 @@ In (4) immeasurables:
 - A mindfully offers a (kind) freedom to B
 - A mindfully respects (with remembering) recognized own shapes and own needs of B
 - A mindfully enjoys with appreciation the values around B
-- A mindfully supports (with own solid fitness) a B
+- A (with own solid fitness) mindfully supports a B
 
