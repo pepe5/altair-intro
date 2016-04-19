@@ -42,7 +42,7 @@ $$\rightarrow$$ beside being careful we can try to "*feel it*" $$\rightarrow$$ b
 
 In (4) immeasurables:
 - A mindfully offers a (kind) freedom to B
-- A mindfully respects (with remembering) recognized own shapes and own needs of B
+- A mindfully respects (with remembering) recognized B's own shapes and needs of B
 - A mindfully enjoys with appreciation the values around B
 - A (with own solid fitness) mindfully supports a B
 
