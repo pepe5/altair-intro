@@ -28,5 +28,12 @@ We can reflect innumerable dimensions of A's activity and conceptualize them in 
 
 The reason why negative declaration is more apropriate is that what people don't want (to get from others) is more specifiable. -- What people whish is more subjective in particular situations.
 
-### true love
-Positive declaration can be based on live-force elements:
+### true friendship / true love
+Positive declaration can be based on (5) live-force elements for example:
+
+- A tries to be mindful towards B
+- A tries to offer a (kind) freedom to B
+- A tries to respect (with remembering) recognized shapes and needs of B
+- A enjoys with appreciation values around B
+- A is inclusive (because of own solid supportive fitness) to B
+- 
