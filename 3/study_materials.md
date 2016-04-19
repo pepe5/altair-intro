@@ -11,7 +11,7 @@ Why we use negative declaration of what we are focusing to:
 
 - because we are trying to label by 1 term a position on (at least) 2 factors / dimensions:
 
-We will evaluate "Actor's Activity" (A) on "Body of an object" (B):
+We will evaluate "Actor's Activity" (A) on "Body of an object" (B) - from perspective of B:
 
 - if it is non-violent
 - or aggressive
@@ -22,3 +22,11 @@ We will evaluate "Actor's Activity" (A) on "Body of an object" (B):
 | $$\downarrow$$ | non-violence | A mis-uses B |
 | B's loose-experience in present | A pushes B | A's aggression |
 
+We can reflect innumerable dimensions of A's activity and conceptualize them in many thinkable spatial models:
+
+- so here is another example of non-violence factors/dimensions model: **TODO** [5MT](http://plumvillage.org/mindfulness-practice/the-5-mindfulness-trainings)
+
+The reason why negative declaration is more apropriate is that what people don't want (to get from others) is more specifiable. -- What people whish is more subjective in particular situations.
+
+### true love
+Positive declaration can be based on live-force elements:
