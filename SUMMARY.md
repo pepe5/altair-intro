@@ -19,7 +19,7 @@
    * [Hour-3: q&a-tasks drill](3/hour-3_q&a-tasks_drill.md)
    * [Day-2](3/day-2.md)
    * [Day-3](3/day-3.md)
-   * Study Materials
+   * [Study Materials](3/study_materials.md)
 * [Implementation of social level of support of humanism](implementation_of_social_level_of_support_of_human/README.md)
    * [Yellow zone](implementation_of_social_level_of_support_of_human/yellow_zone.md)
    * [Green zone - core live details](implementation_of_social_level_of_support_of_human/green_zone_-_core_live_details.md)
