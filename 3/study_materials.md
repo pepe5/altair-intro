@@ -11,7 +11,7 @@ Why we use negative declaration of what we are focusing to:
 
 - because we are trying to label by 1 term a position on (at least) 2 factors / dimensions:
 
-We will evaluate "Actor's Activity" (A) on "Body of subject" (B):
+We will evaluate "Actor's Activity" (A) on "Body of an object" (B):
 
 - if it is non-violent
 - or aggressive
