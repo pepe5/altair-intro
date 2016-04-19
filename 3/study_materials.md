@@ -36,4 +36,13 @@ Positive declaration can be based on (5) live-force elements for example:
 - A tries to respect (with remembering) recognized shapes and needs of B
 - A enjoys with appreciation values around B
 - A is inclusive (because of own solid supportive fitness) to B
-- 
+
+(But what it means in particular situations??)
+$$\rightarrow$$ beside being careful we can try to "*feel it*" $$\rightarrow$$ by *simplification*:
+
+In (4) immesureables:
+- A mindfully offers a (kind) freedom to B
+- A mindfully respects (with remembering) recognized own shapes and own needs of B
+- A mindfully enjoys with appreciation the values around B
+- A mindfully supports (with own solid supportive fitness) a B
+
