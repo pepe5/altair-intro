@@ -41,8 +41,8 @@ Positive declaration can be based on (5) live-force elements for example:
 $$\rightarrow$$ beside being careful we can try to "*feel it*" $$\rightarrow$$ by *simplification*:
 
 In (4) immesureables:
-- A mindfully offers a (kind) freedom to B
-- A mindfully respects (with remembering) recognized own shapes and own needs of B
-- A mindfully enjoys with appreciation the values around B
-- A mindfully supports (with own solid supportive fitness) a B
+ - A mindfully offers a (kind) freedom to B
+ - A mindfully respects (with remembering) recognized own shapes and own needs of B
+ - A mindfully enjoys with appreciation the values around B
+ - A mindfully supports (with own solid fitness) a B
 
