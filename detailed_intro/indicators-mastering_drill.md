@@ -6,7 +6,7 @@ we have some values and we have detailed KB of _contra-indicators_ which helps u
 
 ### we do not do some things here {#we-do-not-do-some-things-here}
 
-*   see **[3ε](#3)** / **_3MTs_ **training
+*   see **[3ε](https://altair.gitbooks.io/intro/content/3/index.html)** / **_3MTs_ **training
 
 place holder cannot ask newcomer
 
