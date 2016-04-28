@@ -67,9 +67,13 @@ So when someone says something critical, we focus on finding _what_ s/he is crit
 *   **_towards other people_**: → then we need to ensure that s/he is not violent to them. → We do not accept here -- _harming criticism,_→ but rather we practice here -- _warning_ and/or _warming criticism_.This is our important regulation: no one can be judged if s/he did not receive warning in advance! Any critic which is intended to be warning/warming must be _delivered_ to the object of that critical thinking. Our [video-tracking KB] helps us in implementation of this a lot.We are encouraged to warn someone who steps over our indicators / values.
 *   **_towards some system_**: In atmosphere of professionalism/consumerism in mainstream, people are used to blame covering system/s a lot to make themselves to ease. At us, we are trying to overcome consumerism/professionalism so blaming the system moves the actor to blue-zone. → Then it is evaluated if the actor blames objective lacks in the system or if s/he expresses _subjective_ frustration:→ we are encouraged to sharpen our skill of objective criticism.→ we are encouraged to soften our tendency to subjectively blame.There is system of public recursive evaluation on what subjective and what objective is.
 
+To start criticising means to start to be serious about to change something.
+* Be carefull in criticising self-expressions otherwise you will be obligated to serve a change.
+
 Critics regulation is implemented in personal-profile:
 
 *   we count in personal skills an ability of _objective finding_ and _warning-warming_ soft skill.
 *   we count in personal limits a fragility of falling to subjective interpretations and harming.
+*   we count ratio between ability to criticize constructively (with results on roads to resolution) and criticize without effective results.
 
 -- actually, this characteristic is one of few ones used to qualify a person to be eligible to come to white-zone fans-club.
