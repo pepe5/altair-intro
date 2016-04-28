@@ -74,6 +74,6 @@ Critics regulation is implemented in personal-profile:
 
 *   we count in personal skills an ability of _objective finding_ and _warning-warming_ soft skill.
 *   we count in personal limits a fragility of falling to subjective interpretations and harming.
-*   we count ratio between ability to criticize constructively (with results on roads to resolution) and criticize without effective results.
+*   we count *ratio* between ability to criticize constructively (with results on roads to resolution) and to criticize without effective results.
 
 -- actually, this characteristic is one of few ones used to qualify a person to be eligible to come to white-zone fans-club.
