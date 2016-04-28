@@ -59,7 +59,7 @@ we do not accept here:
 
 #### no blaming - no unconstructive criticism {#no-blaming-no-unconstructive-criticism}
 
-Critical thinking is important part of intelligence and as such it is important part of common heritage. But unfortunately you can by “_critical_ without _thinking_”: which we try to overcome.
+Critical thinking is important part of intelligence and as such it is important part of common heritage. But unfortunately you can be “_critical_ without _thinking_”: which we try to overcome.
 
 So when someone says something critical, we focus on finding _what_ s/he is critical _to_. It is always toward something. It can be:
 
