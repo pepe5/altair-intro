@@ -150,7 +150,7 @@ Here right understanding comes to be important:
 
 We use -as other companies- _zones_ to protect “inner values”:
 
-*   **_red zone_** - for contact with general outside people: this server mainly 2 purposes: 1/public propagation of “_our implementation_”, and 2/sold public-destined products
+*   **_red zone_** - for contact with general outside people: this serves mainly 2 purposes: 1/public propagation of “_our implementation_”, and 2/sold public-destined products
 *   **_yellow zone_** - for moments, where inner quality is not ensured: bigger events with partially verified clients from outside
 *   **_green zone_** - for “regular” (inner) live
 *   **_blue zone_** - for live - where “hard” values needs to be protected
