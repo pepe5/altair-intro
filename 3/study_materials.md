@@ -18,7 +18,7 @@ See at least these study materials for now:
 
 3. ***Brazen*** one: *Repay kindness with kindness*; includes ***Balance*** encouragement: *Do unto others as they do unto you*.
 
-4. ***Iron*** one: *Do unto others as you like, before they do it unto you*. The rule encourages nourishing ***self-Accountability***. This is practiced in modern (netocracy) Politics.
+4. ***Iron*** one: *Do unto others as you like, before they do it unto you*. The rule encourages (at least) nourishing ***self-Accountability***. This is practiced in modern (netocracy) Politics.
 
 5. ***Midle-way*** rule: *Time teaches you what to do*: *You start out cooperating and, in each subsequent round , simply do what your opponent did the last time (tit-for-tat). You punish defections, but, once the other player cooperates, you’re willing to let bygones be bygones. At first, it seems to garner only mediocre success. But as time goes on, the other old strategies defeat themselves----from too much kindness or too much cruelty-----and then this middle way pulls ahead.* This rule encourages to ***Emphasize Intelligence***.
 
