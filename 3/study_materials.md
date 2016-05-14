@@ -2,7 +2,7 @@
 
 ## theory of non-violence
 
-### Golden Rule
+### [Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule)
 
 *** TODO
 
@@ -46,3 +46,18 @@ In (4) immeasurables:
 - A mindfully enjoys with appreciation the values around B
 - A (with own solid fitness) mindfully supports a B
 
+
+## live modeling
+### "just-labeling" aproach
+
+Beside Golden-rule theory, we have here more pro-systems models which draws motivations and rules in life-field: concretely [Games-theory](https://en.wikipedia.org/wiki/Game_theory).
+
+From this we can see that in society we have basically have 2 "propagandas":
+
+1. self-centered model: here win-lost is only option; or at least the option when 1 "gets" it, and 2$$nd$$ "withstand to wait". 
+   - on this modeling, whole western civilisation has been built. Golden-rule makes it 
+
+2. 
+
+
+- see [NVC Connection](http://en.nvcwiki.com/index.php/Underlying_Concepts_of_Compassionate_Communication)
