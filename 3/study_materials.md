@@ -5,11 +5,11 @@
 ### [Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule)
 
 See at least these study materials for now:
-1. https://wikipedia.org/wiki/Golden_Rule
-2. https://www.christiancourier.com/articles/9-gold-silver-and-iron-three-rules-of-human-conduct
-3. http://www.dountoothers.org/newwaytothink.html
+- https://wikipedia.org/wiki/Golden_Rule
+- https://www.christiancourier.com/articles/9-gold-silver-and-iron-three-rules-of-human-conduct
+- http://www.dountoothers.org/newwaytothink.html
 
-- ***Golden*** one: *Do unto others as you would have them do unto you*. BTW: This includes encouragement to not discard others' opinions [and] not use abusive language. This do not propagate ruthlessness, but exactly opposite: It encourage ***Emphaty***.
+1. ***Golden*** one: *Do unto others as you would have them do unto you*. BTW: This includes encouragement to not discard others' opinions [and] not use abusive language. This do not propagate ruthlessness, but exactly opposite: It encourage ***Emphaty***.
 - ***Silver*** one: *Do not do unto others what you would not have them do unto you*. BTW: It do not inhibit defence need but exactly opposite: encourage ***defense against violence***. It encourage ***Respect***.
 
 - ***Brazen*** one: *Repay kindness with kindness*; includes ***Balance*** encouragement: *Do unto others as they do unto you*.
