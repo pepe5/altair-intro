@@ -11,7 +11,7 @@ See at least these study materials for now:
 - http://www.dountoothers.org/newwaytothink.html
 
 1. ***Golden*** one: *Do unto others as you would have them do unto you*. BTW: This includes encouragement to not discard others' opinions [and] not use abusive language. This do not propagate ruthlessness, but exactly opposite: It encourage ***Emphaty***.
-- ***Silver*** one: *Do not do unto others what you would not have them do unto you*. BTW: It do not inhibit defence need but exactly opposite: encourage ***defense against violence***. It encourage ***Respect***.
+- ***Silver*** one: *Do not do unto others what you would not have them do unto you*. BTW: It do not inhibit defence need but exactly opposite: encourage ***defense against violence***. It encourage ***Respect*** - on ***Liberty***: *Liberty consists in the freedom to do everything which injures no one else*.
 
 - ***Brazen*** one: *Repay kindness with kindness*; includes ***Balance*** encouragement: *Do unto others as they do unto you*.
 
