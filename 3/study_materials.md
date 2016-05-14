@@ -10,7 +10,7 @@ See at least these study materials for now:
 3. http://www.dountoothers.org/newwaytothink.html
 
 - ***Golden*** one: *Do unto others as you would have them do unto you*
-- ***Silver*** one: *Do not do unto others what you would not have them do unto you*. BTW: As Golden rule, Silver one do not inhibit encourage on ***defense against violence***, but rather it encourage it !-)
+- ***Silver*** one: *Do not do unto others what you would not have them do unto you*. BTW: This includes encouragement to not discard others' opinions [and] not use abusive language. It do not inhibit defence need but exactly opposite: encourage ***defense against violence***.
 - ***Brazen*** one: *Repay kindness with kindness*; includes ***Balance*** encouragement: *Do unto others as they do unto you*.
 - ***Iron*** one: *Do unto others as you like, before they do it unto you*; which is practiced in modern (netocracy) Politics.
 - ***Midle-way*** rule: *Time teaches you what to do*: *You start out cooperating and, in each subsequent round , simply do what your opponent did the last time (tit-for-tat). You punish defections, but, once the other player cooperates, you’re willing to let bygones be bygones. At first, it seems to garner only mediocre success. But as time goes on, the other old strategies defeat themselves----from too much kindness or too much cruelty-----and then this middle way pulls ahead.*
