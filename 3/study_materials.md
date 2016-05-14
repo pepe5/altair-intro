@@ -81,6 +81,7 @@ From this we can see that in society we have basically have 2 "propagandas":
    - Rather this "self-understanding" is based on (self) "***Identification***" (unification) with actual virtue / wise sensing of a situation.
    - In some modern experimental psychologies, this can be valid if the person is in ***conscious contact*** with all touched bodies: self body is one which is always engaged.
    - The problem (which is not considered as problem to the proponents) is that here the person is - and always has to be - *non-selfish*.
+   - This model is usually propagated in monasteries.
 
 3. ***transitional*** model: states it is somehow between: both models are valid to be experienced in some situation.
    - Only known psychological model here currently to me is [NVC](cnvc.org).
