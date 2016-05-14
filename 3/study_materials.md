@@ -65,7 +65,7 @@ In (4) immeasurables:
 ## live modeling
 ### "just-labeling" aproach
 
-Beside Golden-rule theory, we have here more pro-systems models which draws motivations and rules in life-field: concretely [Games-theory](https://en.wikipedia.org/wiki/Game_theory).
+Beside Golden-rule theory, we have here more pro-systems-oriented models which draws motivations and rules in life-field: concretely [Games-theory](https://en.wikipedia.org/wiki/Game_theory).
 
 From this we can see that in society we have basically have 2 "propagandas":
 
