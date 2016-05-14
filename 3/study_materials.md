@@ -74,7 +74,7 @@ From this we can see that in society we basically have 2 "propagandas":
    - This whole is about "*dualistic*" "self"-awareness, which stands  *self concurring against others*.
    - Modern mainstream (psychotherapeutic) "psychology" propaganda sacrifices it as only valid interpretation of personal motivations. Social aspect then is built around "***Emotional Resilience***".
    - The problem (which is not considered as problem to the proponents) is that here the person is - and always has to be - *selfish*.
-   - All dualistic philosophies follow it (economy-market propaganda, psychology, abrahamic systems, ...)
+   - All dualistic philosophies follow it (economy-market propaganda, psychology, abrahamic systems,...)
 
 2. ***non-self / "absolute"*** model: here win-win is only valid option; or at least fulfilling compassion / inclusiveness as win variant.
    - This builds it's on understanding that "self" (organism with its needs) is always safe - based on healthy living-attitude (which cannot be anyhow destroyed, because is realizable in every circumstances). Therefore both (scared) self-defense and (self) emotional-resilience are here considered as misunderstandings of self.
