@@ -67,7 +67,7 @@ In (4) immeasurables:
 
 Beside Golden-rule theory, we have here more pro-systems-oriented models which draws motivations and rules in life-field: concretely [Games-theory](https://en.wikipedia.org/wiki/Game_theory).
 
-From this we can see that in society we have basically have 2 "propagandas":
+From this we can see that in society we basically have 2 "propagandas":
 
 1. ***self-centered / relativistic*** model: here win-lost is only option; or at least the option when 1 "gets" it, and 2$$^{nd}$$ "withstand to wait". 
    - on this modeling, whole western civilisation has been built. ***Golden-rule*** (all variants) makes it working on real society.
@@ -82,6 +82,7 @@ From this we can see that in society we have basically have 2 "propagandas":
    - In some modern experimental psychologies, this can be valid if the person is in ***conscious contact*** with all touched bodies: self body is one which is always engaged.
    - The problem (which is not considered as problem to the proponents) is that here the person is - and always has to be - *non-selfish*.
    - This model is usually propagated in monasteries.
+   - Even when this model brings so precious value of self-unification, still here it is hard for the proponents to state that something else can be valid model.
 
 3. ***transitional*** model: states it is somehow between: both models are valid to be experienced in some situation.
    - Only known psychological model here currently to me is [NVC](cnvc.org).
