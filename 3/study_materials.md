@@ -71,7 +71,7 @@ From this we can see that in society we have basically have 2 "propagandas":
 
 1. ***self-centered / relativistic*** model: here win-lost is only option; or at least the option when 1 "gets" it, and 2$$^{nd}$$ "withstand to wait". 
    - on this modeling, whole western civilisation has been built. ***Golden-rule*** (all variants) makes it working on real society.
-   - This whole is about "*dualistic*" "self"-awareness, which stands concurring *self against others*.
+   - This whole is about "*dualistic*" "self"-awareness, which stands  *self concurring against others*.
    - Modern mainstream (psychotherapeutic) "psychology" propaganda sacrifices it as only valid interpretation of personal motivations. Social aspect then is built around "***Emotional Resilience***".
    - The problem (which is not considered as problem to the proponents) is that here the person is - and always has to be - *selfish*.
 
