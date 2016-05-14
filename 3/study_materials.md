@@ -72,6 +72,7 @@ From this we can see that in society we have basically have 2 "propagandas":
 1. self-centered model: here win-lost is only option; or at least the option when 1 "gets" it, and 2$$nd$$ "withstand to wait". 
    - on this modeling, whole western civilisation has been built. Golden-rule makes it working
 
+
 2. 
 
 
