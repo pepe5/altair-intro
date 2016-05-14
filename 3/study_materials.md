@@ -74,6 +74,7 @@ From this we can see that in society we have basically have 2 "propagandas":
    - This whole is about "*dualistic*" "self"-awareness, which stands  *self concurring against others*.
    - Modern mainstream (psychotherapeutic) "psychology" propaganda sacrifices it as only valid interpretation of personal motivations. Social aspect then is built around "***Emotional Resilience***".
    - The problem (which is not considered as problem to the proponents) is that here the person is - and always has to be - *selfish*.
+   - All dualistic philosophies follow it (psychology, abrahamic systems, ...)
 
 2. ***non-self / "absolute"*** model: here win-win is only valid option; or at least fulfilling compassion / inclusiveness as win variant.
    - This builds it's on understanding that "self" (organism with its needs) is always safe - based on healthy living-attitude (which cannot be anyhow destroyed, because is realizable in every circumstances). Therefore both (scared) self-defense and (self) emotional-resilience are here considered as misunderstandings of self.
@@ -81,8 +82,10 @@ From this we can see that in society we have basically have 2 "propagandas":
    - In some modern experimental psychologies, this can be valid if the person is in ***conscious contact*** with all touched bodies: self body is one which is always engaged.
    - The problem (which is not considered as problem to the proponents) is that here the person is - and always has to be - *non-selfish*.
 
-3. ***transitional*** mode: states it is somehow between: both models are valid to be experienced in some situation.
+3. ***transitional*** model: states it is somehow between: both models are valid to be experienced in some situation.
    - Only known psychological model here currently to me is [NVC](cnvc.org).
+   - In introspective trainings, this is reflection of [Sambhogakāya](https://en.wikipedia.org/wiki/Sambhogakāya) state.
+   - In western philosophy this can be reflected
 
 
 - see [NVC Connection](http://en.nvcwiki.com/index.php/Underlying_Concepts_of_Compassionate_Communication)
