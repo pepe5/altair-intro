@@ -14,13 +14,13 @@ See at least these study materials for now:
 
 1. ***Golden*** one: *Do unto others as you would have them do unto you*. BTW: This includes encouragement to not discard others' opinions [and] not use abusive language. This do not propagate ruthlessness, but exactly opposite: It encourage ***Emphaty***.
 
-- ***Silver*** one: *Do not do unto others what you would not have them do unto you*. BTW: It do not inhibit defence need but exactly opposite: encourage ***defense against violence***. It encourage ***Respect*** - on ***Liberty***: *Liberty consists in the freedom to do everything which injures no one else*.
+2. ***Silver*** one: *Do not do unto others what you would not have them do unto you*. BTW: It does not inhibit defence need but exactly opposite: encourage ***defense against violence***. It encourage ***Respect*** - on ***Liberty***: *Liberty consists in the freedom to do everything which injures no one else*.
 
-- ***Brazen*** one: *Repay kindness with kindness*; includes ***Balance*** encouragement: *Do unto others as they do unto you*.
+3. ***Brazen*** one: *Repay kindness with kindness*; includes ***Balance*** encouragement: *Do unto others as they do unto you*.
 
-- ***Iron*** one: *Do unto others as you like, before they do it unto you*. The rule encourages nourishing ***self-Accountability***. This is practiced in modern (netocracy) Politics.
+4. ***Iron*** one: *Do unto others as you like, before they do it unto you*. The rule encourages nourishing ***self-Accountability***. This is practiced in modern (netocracy) Politics.
 
-- ***Midle-way*** rule: *Time teaches you what to do*: *You start out cooperating and, in each subsequent round , simply do what your opponent did the last time (tit-for-tat). You punish defections, but, once the other player cooperates, you’re willing to let bygones be bygones. At first, it seems to garner only mediocre success. But as time goes on, the other old strategies defeat themselves----from too much kindness or too much cruelty-----and then this middle way pulls ahead.*
+5. ***Midle-way*** rule: *Time teaches you what to do*: *You start out cooperating and, in each subsequent round , simply do what your opponent did the last time (tit-for-tat). You punish defections, but, once the other player cooperates, you’re willing to let bygones be bygones. At first, it seems to garner only mediocre success. But as time goes on, the other old strategies defeat themselves----from too much kindness or too much cruelty-----and then this middle way pulls ahead.*
 
 ### "negative declaration"
 Why we use negative declaration of what we are focusing to:
