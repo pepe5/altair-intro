@@ -81,7 +81,8 @@ From this we can see that in society we have basically have 2 "propagandas":
    - In some modern experimental psychologies, this can be valid if the person is in conscious contact with all touched bodies: self body is one which is always engaged.
    - The problem (which is not considered as problem the proponents) is that here the person is - and always has to be - *non-selfish*.
 
-3. 
+3. ***transitional*** mode: states it is somehow between: both models are valid to be experienced in some situation.
+   - Only known psychological model here currently to me is [NVC](cnvc.org).
 
 
 - see [NVC Connection](http://en.nvcwiki.com/index.php/Underlying_Concepts_of_Compassionate_Communication)
