@@ -70,13 +70,14 @@ Beside Golden-rule theory, we have here more pro-systems-oriented models which d
 From this we can see that in society we have basically have 2 "propagandas":
 
 1. ***self-centered / relativistic*** model: here win-lost is only option; or at least the option when 1 "gets" it, and 2$$nd$$ "withstand to wait". 
-   - on this modeling, whole western civilisation has been built. Golden-rule (all variants) makes it working on real society.
+   - on this modeling, whole western civilisation has been built. ***Golden-rule*** (all variants) makes it working on real society.
    - This whole is about "*dualistic*" "self"-awareness, which stands concurring *self against others*.
-   - Modern (psychotherapeutic) "psychology" propaganda sacrifices it as only valid interpretation of personal motivations. Social aspect then is built around "*Emotional Resilience*".
+   - Modern (psychotherapeutic) "psychology" propaganda sacrifices it as only valid interpretation of personal motivations. Social aspect then is built around "***Emotional Resilience***".
 
 2. ***non-self / "absolute"*** model: here win-win is only valid option; or at least fulfilling compassion / inclusiveness as win variant.
-   - This builds it's on understanding that "self" (organism with its needs) is always safe - based on healthy living-attitude (which cannot be anyhow destroyed, because is realizable in every circumstances). Therefore 
-   - 
+   - This builds it's on understanding that "self" (organism with its needs) is always safe - based on healthy living-attitude (which cannot be anyhow destroyed, because is realizable in every circumstances). Therefore both (scared) self-defense and (self) emotional-resilience are here considered as misunderstandings of self.
+   - Rather this "self-understanding" is based on (self) "***Identification***" (unification) with actual virtue / wise sensing of a situation.
+
 
 
 - see [NVC Connection](http://en.nvcwiki.com/index.php/Underlying_Concepts_of_Compassionate_Communication)
