@@ -78,7 +78,7 @@ From this we can see that in society we have basically have 2 "propagandas":
 2. ***non-self / "absolute"*** model: here win-win is only valid option; or at least fulfilling compassion / inclusiveness as win variant.
    - This builds it's on understanding that "self" (organism with its needs) is always safe - based on healthy living-attitude (which cannot be anyhow destroyed, because is realizable in every circumstances). Therefore both (scared) self-defense and (self) emotional-resilience are here considered as misunderstandings of self.
    - Rather this "self-understanding" is based on (self) "***Identification***" (unification) with actual virtue / wise sensing of a situation.
-   - In some modern experimental psychologies, this can be valid if the person is in conscious contact with all touched bodies: self body is one which is always engaged.
+   - In some modern experimental psychologies, this can be valid if the person is in ***conscious contact*** with all touched bodies: self body is one which is always engaged.
    - The problem (which is not considered as problem the proponents) is that here the person is - and always has to be - *non-selfish*.
 
 3. ***transitional*** mode: states it is somehow between: both models are valid to be experienced in some situation.
