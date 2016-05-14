@@ -4,7 +4,16 @@
 
 ### [Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule)
 
-*** TODO
+See at least these study materials for now:
+1. https://wikipedia.org/wiki/Golden_Rule
+2. https://www.christiancourier.com/articles/9-gold-silver-and-iron-three-rules-of-human-conduct
+3. http://www.dountoothers.org/newwaytothink.html
+
+- ***Golden*** one: *Do unto others as you would have them do unto you*
+- ***Silver*** one: *Do not do unto others what you would not have them do unto you*. BTW: As Golden rule, Silver one do not inhibit encourage on defense against violence, but rather it encourage it !-)
+- ***Brazen*** one: *Repay kindness with kindness*; includes ***Balance*** encouragement: *Do unto others as they do unto you*.
+- ***Iron*** one: *Do unto others as you like, before they do it unto you*; which is practiced in modern (netocracy) Politics.
+- ***Midle-way*** rule: *Time teaches you what to do*: *You start out cooperating and, in each subsequent round , simply do what your opponent did the last time (tit-for-tat). You punish defections, but, once the other player cooperates, you’re willing to let bygones be bygones. At first, it seems to garner only mediocre success. But as time goes on, the other old strategies defeat themselves----from too much kindness or too much cruelty-----and then this middle way pulls ahead.*
 
 ### "negative declaration"
 Why we use negative declaration of what we are focusing to:
@@ -55,7 +64,7 @@ Beside Golden-rule theory, we have here more pro-systems models which draws moti
 From this we can see that in society we have basically have 2 "propagandas":
 
 1. self-centered model: here win-lost is only option; or at least the option when 1 "gets" it, and 2$$nd$$ "withstand to wait". 
-   - on this modeling, whole western civilisation has been built. Golden-rule makes it 
+   - on this modeling, whole western civilisation has been built. Golden-rule makes it working
 
 2. 
 
