@@ -71,7 +71,7 @@ From this we can see that in society we have basically have 2 "propagandas":
 
 1. ***self-centered model***: here win-lost is only option; or at least the option when 1 "gets" it, and 2$$nd$$ "withstand to wait". 
    - on this modeling, whole western civilisation has been built. Golden-rule (all variants) makes it working on real society.
-   - Modern (psychoterapeutic) propaganda sacrifices it as only valid interpretation of personal motivations.
+   - Modern (psychoterapeutic) "psychology" propaganda sacrifices it as only valid interpretation of personal motivations.
 
 2. ***non-self / "absolute"*** model: here win-win 
 
