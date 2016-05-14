@@ -6,6 +6,7 @@
 
 See at least these study materials for now:
 - https://wikipedia.org/wiki/Golden_Rule
+- https://en.wikipedia.org/wiki/Harm_principle
 - https://www.christiancourier.com/articles/9-gold-silver-and-iron-three-rules-of-human-conduct
 - http://www.dountoothers.org/newwaytothink.html
 
