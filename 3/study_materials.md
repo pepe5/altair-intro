@@ -108,7 +108,7 @@ Model of ***Emotional Resilience*** pulls practitioner to -
   $$\rightarrow$$ How assertiveness failed in large scale is well known. Now propagators invented ***soft skills***. The project became "perfect". All what you get from this is you cannot trust people anymore.
 
 
-- This all comes from having *emotional resilience* inseparably interconnected to *professionalism*, which is a need to win a fight of taking (some) control on "demands market". I consider this 2 propagandas inseparable in current society. So let's identify some concrete failures from perspective of social-situations:
+This all comes from having *emotional resilience* inseparably interconnected to *professionalism*, which is a need to win a fight of taking (some) control on "demands market". I consider this 2 propagandas inseparable in current society. So let's identify some concrete failures from perspective of social-situations:
 
 1. Emotional resilience mainly dictates to unconditionally adapt without any ethic self-reflection:
 - Ruthlessness expands to whole western society, we are not *brutal* as Sharia-ruled countries are; but in terms of *treating/protecting children* (outside of our families - in neighbors houses and in schools) - we still feels this as pain. Propaganda goes so far that victims are even punished for being "too weak".
