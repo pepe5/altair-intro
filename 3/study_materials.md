@@ -91,4 +91,14 @@ From this we can see that in society we basically have 2 "propagandas":
    - In western philosophy this can be reflected for example by [Plane of immanence](https://en.wikipedia.org/wiki/Plane_of_immanence).
 
 
+Now, let's return to dominating model, and try to identify weaknesses of that one and try to find spread alternatives around.
+
+Model of ***Emotional Resilience*** pulls practitioner to -
+
+- (*profesional*) *ruthlessness* : it is expressed by saying *"Heed your own problems, instead of problems of others."*
+$$\rightarrow$$ This brings up need to teach this practitioners again an warm ***sensitivity***
+- unfortunately such sensitivity can go against practitioner goals, and thus s/he chooses **
+
+- This all comes from having *emotional resilience* inseparably interconnected to *professionalism*, which 
+
 - see [NVC Connection](http://en.nvcwiki.com/index.php/Underlying_Concepts_of_Compassionate_Communication)
