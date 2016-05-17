@@ -77,6 +77,7 @@ From this we can see that in society we basically have 2 "propagandas":
    - The problem (which is not considered as problem to the proponents) is that here the person is - and always has to be - *selfish*.
    - All dualistic philosophies follow it (economy-market propaganda, psychology, abrahamic systems,...)
 
+
 2. ***non-self / "absolute"*** model: here win-win is only valid option; or at least fulfilling compassion / inclusiveness as win variant.
    - This builds it's understanding on that "self" (organism with its needs) is always safe - based on healthy living-attitude (which cannot be anyhow destroyed, because is realizable in every circumstances). Therefore both (scared) self-defense and (self) emotional-resilience are here considered as misunderstandings of self.
    - Rather this "self-understanding" is based on (self) "***Identification***" (unification) with actual virtue / wise sensing of a situation.
@@ -84,6 +85,7 @@ From this we can see that in society we basically have 2 "propagandas":
    - The problem (which is not considered as problem to the proponents) is that here the person is - and always has to be - *non-selfish*.
    - This model is usually propagated in monasteries.
    - Even when this model brings so precious value of self-unification, still here it is hard for the proponents to state that something else can be valid model.
+
 
 3. ***transitional*** model: states it is somehow between: both models are valid to be experienced in some situation.
    - Only known psychological model here currently to me is [NVC](cnvc.org).
