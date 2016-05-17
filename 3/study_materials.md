@@ -92,6 +92,7 @@ From this we can see that in society we basically have 2 "propagandas":
    - In introspective trainings, this is reflection of [Sambhogakāya](https://en.wikipedia.org/wiki/Sambhogakāya) state.
    - In western philosophy this can be reflected for example by [Plane of immanence](https://en.wikipedia.org/wiki/Plane_of_immanence).
 
+- see [NVC Connection](http://en.nvcwiki.com/index.php/Underlying_Concepts_of_Compassionate_Communication)
 
 Now, let's return to dominating model, and try to identify weaknesses of that one and try to find spread alternatives around.
 
@@ -115,4 +116,3 @@ Model of ***Emotional Resilience*** pulls practitioner to -
 - In total, we can sense in contemporary society aggressiveness between different groups of activists. 
 - People in cruel societies are encouraged to adapt there: *just for theirs sustainable future*. This makes societies to be unsustainable even more.
 
-- see [NVC Connection](http://en.nvcwiki.com/index.php/Underlying_Concepts_of_Compassionate_Communication)
