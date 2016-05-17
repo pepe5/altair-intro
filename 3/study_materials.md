@@ -109,9 +109,10 @@ Model of ***Emotional Resilience*** pulls practitioner to -
 
 - This all comes from having *emotional resilience* inseparably interconnected to *professionalism*, which is a need to win a fight of taking (some) control on "demands market". I consider this 2 propagandas inseparable in current society. So let's identify some concrete failures from perspective of social-situations:
 
-1. 
+1. Emotional resilience mainly dictates to unconditionally adapt without any ethic self-reflection:
 - Ruthlessness expands to whole western society, we are not *brutal* as Sharia-ruled countries are; but in terms of *treating/protecting children* (outside of our families - in neighbors houses and in schools) - we still feels this as pain. Propaganda goes so far that victims are even punished for being "too weak".
-- Insincerity made grew *coruption* and prepared society ready to accept netocracy as standard.
+- Insincerity made grew *corruption* and prepared society ready to accept netocracy as standard.
 - In total, we can sense in contemporary society aggressiveness between different groups of activists. 
+- People in cruel societies are encouraged to adapt there: *just for theirs sustainable future*. This makes societies to be unsustainable even more.
 
 - see [NVC Connection](http://en.nvcwiki.com/index.php/Underlying_Concepts_of_Compassionate_Communication)
