@@ -97,7 +97,9 @@ Model of ***Emotional Resilience*** pulls practitioner to -
 
 - (*profesional*) *ruthlessness* : it is expressed by saying *"Heed your own problems, instead of problems of others."*
 $$\rightarrow$$ This brings up need to teach this practitioners again an warm ***sensitivity***
-- unfortunately such sensitivity can go against practitioner goals, and thus s/he chooses **
+- Unfortunately such sensitivity can go against practitioner goals, and thus s/he chooses *insincerity*
+$$\rightarrow$$ This brings up a need to teach it again in other way: now propagators invented ***authenticity***
+- But because this model is still about ruthlessness, it engages to learn and spread *assertiveness*.
 
 - This all comes from having *emotional resilience* inseparably interconnected to *professionalism*, which 
 
