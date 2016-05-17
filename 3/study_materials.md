@@ -106,6 +106,7 @@ Model of ***Emotional Resilience*** pulls practitioner to -
 - But because this model is still about ruthlessness, it engages to learn and spread *assertiveness*.
   $$\rightarrow$$ How assertiveness failed in large scale is well known. Now propagators invented ***soft skills***. The project became "perfect". All what you get from this is you cannot trust people anymore.
 
+
 - This all comes from having *emotional resilience* inseparably interconnected to *professionalism*, which is a need to win a fight of taking (some) control on "demands market".
 
 - see [NVC Connection](http://en.nvcwiki.com/index.php/Underlying_Concepts_of_Compassionate_Communication)
