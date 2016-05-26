@@ -15,10 +15,10 @@ As self-regulatory votings and penetrating inspectors and provokers are strong e
 ### If some applicant reaches white-club membership-status (by voting about his/her ethical strenght)
 ... then s/he gets power of some special acts:
 
-    - s/he has power of veta - in company decision-making votings <br />
-      (Just right next voting can make him/her out from white-status, but that's the how play goes.)
+- s/he has power of veta - in company decision-making votings <br />
+  (Just right next voting can make him/her out from white-status, but that's the how play goes.)
 
-    - s/he has power to declare certain Q&A/s in our KB to be obligatory company-wide <br />
-      Most of our Q&A/s are just personal, or project/s oriented. Only interested people makes theirs contributions there. On co-house level, we have Q&A/s declared to be defining of the house *culture*: then those are obligatory for co-house members (and applicants). Most of Q&A/s company-wide - are not obligatory in strict sense: only those *charter-relating* are by default obligatory. For example, Q&A/s about particular investments need to reach a quora, but it is about 60%. White-member can make any question obligatory company-wide: and this can have big implications, because company has to follow it's evaluations then.
+- s/he has power to declare certain Q&A/s in our KB to be obligatory company-wide <br />
+  Most of our Q&A/s are just personal, or project/s oriented. Only interested people makes theirs contributions there. On co-house level, we have Q&A/s declared to be defining of the house *culture*: then those are obligatory for co-house members (and applicants). Most of Q&A/s company-wide - are not obligatory in strict sense: only those *charter-relating* are by default obligatory. For example, Q&A/s about particular investments need to reach a quora, but it is about 60%. White-member can make any question obligatory company-wide: and this can have big implications, because company has to follow it's evaluations then.
 
-    - s/he with (at least) 2 white-mates can step in to blue processes
+- s/he with (at least) 2 white-mates can step in to blue processes
