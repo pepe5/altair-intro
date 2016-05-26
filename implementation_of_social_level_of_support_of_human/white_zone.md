@@ -15,6 +15,17 @@ As self-regulatory votings and penetrating inspectors and provokers are strong e
 *   If some applicant reaches white-club membership-status (by voting about his/her ethical strenght)
 ... then s/he gets power of some special acts:
 - s/he has power of veta - in company decision-making votings
+> (Just right next voting can make him/her out from white-status, but that's the how play goes.)
+
 - s/he has power to declare sertain Q&A/s in our KB to be obligatory company-wide
+> 
+
 - s/he with (at least) 2 white-mates can step in to blue processes
+
+
+
+
+
+
+
 
