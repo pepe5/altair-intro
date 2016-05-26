@@ -12,7 +12,7 @@ As self-regulatory votings and penetrating inspectors and provokers are strong e
 
 *   But it has to be always clear that every white club can be put into emigration process…
 
-*   If some applicant reaches white-club membership-status (by voting about his/her ethical strenght)
+### If some applicant reaches white-club membership-status (by voting about his/her ethical strenght)
 ... then s/he gets power of some special acts:
 
     - s/he has power of veta - in company decision-making votings <br />
