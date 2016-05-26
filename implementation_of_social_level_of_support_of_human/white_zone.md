@@ -11,3 +11,10 @@ Again, everybody can try to found white zone, but here it is not middle-school s
 As self-regulatory votings and penetrating inspectors and provokers are strong enough, so far we do not have problems with our white clubs, and our inspectors shares theirs impressions that the zones have positive impact roughly.
 
 *   But it has to be always clear that every white club can be put into emigration process…
+
+*   If some applicant reaches white-club membership-status (by voting about his/her ethical strenght)
+... then s/he gets power of some special acts:
+- s/he has power of veta - in company decision-making votings
+- s/he has power to declare sertain Q&A/s in our KB to be obligatory company-wide
+- s/he with (at least) 2 white-mates can step in to blue processes
+
