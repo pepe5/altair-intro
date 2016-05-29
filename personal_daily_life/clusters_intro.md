@@ -32,9 +32,9 @@ See [Details on typical life situations at 3 hrs “personal career” period]:
 As everything is (in) Queue here, the same way you can see that everything is (in) Project:
 
 *   Everyone can fill the SMART monitor to start a tracking tool.
-*   All our fan-clubs (both co-housed and virtual ones) are grouped abound so Project -- usually some-Queue run-Project.
+*   Most of our fan-clubs (both co-housed and virtual ones) are grouped around some Project -- usually some-Queue run-Project.
 
-Because any Queue defines a Clusters-pair around it (The Producers and The Clients), the Project defines Cluster-run start (and continuation).
+Because any Queue defines a Clusters around it (The Producers and The Clients), the Project defines Cluster-run start (and continuation).
 
 *   Our companies cluster is Project (of Blue-network services) of which you you are engaged member!
 *   Our public services is Project (of our great public services) of which you you are engaged member!
