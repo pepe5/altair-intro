@@ -9,7 +9,7 @@ Queues is core technology mean which we have to implement vision of our values.
 
 ### types INTRO {#types-intro}
 
-Basic 2 types are these:
+Basic 3 types are these:
 
 1.  **_new queue_** - every new queue need time to reach the public: in this it’s stage all joining ‘applicants’ are going to unordered pool. Then there is announcement of ‘Q’ day including conditions by which Q transitions to ordered stage; then there is again settling period; and ‘Q’ day itself.
 2.  **_established queue_** - ordered ones serves basic purpose: “_1st comes 1st goes for_”. In moment when you are just in front - one ready to go for the thing: you get notification about it and then availability of the thing is going through availability-expiration _‘timeout_’ period.
