@@ -76,7 +76,7 @@ What is _many troubles cause_ here - is not difference between these kinds of wo
 *   we do not have anything what do not has fans-base strong enough: (Except *minimal personal comfort*) We completely rely on fact that we will not have anything what we will not produce voluntarily in our free time.
 
     - As we have just 2 phases of our work-time: 3hrs obligatory (peaceful pace) for minimal personal comfort, and 3hrs optional (individually chosen pace) for any personal goal, we thing inseparably about our equipment:
-    - Everything has to be produced the way which balance consumption need by it's enjoyable production live out
+    - Everything has to be produced the way which balance consumption need by it's enjoyable production live out <br />
 
 *   our goal is to setup generations-long sustainability of our (healthily experienceable) infrastructure
 
