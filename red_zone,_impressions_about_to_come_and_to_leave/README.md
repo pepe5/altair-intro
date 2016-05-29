@@ -80,6 +80,7 @@ What is _many troubles cause_ here - is not difference between these kinds of wo
 
 *   our goal is to setup generations-long sustainability of our (healthily experienceable) infrastructure
 
-    -
+    - to be able to do that we know about each-other (in terms of work) everything: unavailability of this clear orientation of own dependency and possibilities in mainstream is unbelievable war-state from our perspective.
+    - we know 
 
 
