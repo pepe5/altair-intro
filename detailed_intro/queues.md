@@ -36,6 +36,11 @@ Queues (availability) cannot be conditioned other way than by membership. In oth
 *   **_membership-based Qs_** - are realized by sheds and co-house areas physically inaccessible for our public: yes, we also use locks and guides in green zone - but only for modifying consumption. Observing of the thing has to be available for all still as observing that queue.
 *   **_placement-based Qs_** - are universal, but picking up the thing can be done only from the place. So entrance to queue is conditioned by your physical location. Here your location is what serves your right to free accessibility: move on to thing please.
 
+#### **_Qs from perspective of newcomer_** - {#Qs-from-newcomers}
+
+- 
+
+
 ### benefits from having queues {#benefits-from-having-queues}
 
 By having queues we gain knowledge, track, and prognosis about:
