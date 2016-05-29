@@ -67,3 +67,11 @@ What is _many troubles cause_ here - is not difference between these kinds of wo
 *   **_monetary forces_**: we do not need loans, we do not need to buy basic things a even most of resources of comfort are available very easily. We do not need to sell our health, our family time, nor our ethic. - Please get in touch with monetary forces suffering at [***].
 *   **_imperialism hierarchies_**: we have very limited, very flat, and always transparent hierarchies. No possibility to catch power through generation, no possibility to catch power longer than 2 years. - Please get in touch with imperialism hierarchies suffering at [***].
 *   **_cultural fights_**: culture is realized on level of co-houses. Culture holders cannot extend this power over borders of the co-house, over 2 years period, and the power is conditioned by 'prosperity' of co-house facilities. - Can be withdrawn due to public or auditing evaluation.- Please get in touch with cultural fights suffering at [***].
+
+
+### Introductory description of materials & services inter-dependencies: {#introductory-description-of-materials-services-inter-dependencies}
+
+*   everyone has right to be “socially satisfied - by free-society services:
+*   we do not have anything what do not has fans-base strong enough: (Except *minimal personal comfort*) We completely rely on fact that we will not have anything what we will not produce voluntarily in our free time. <br />
+    - As we have just 2 phases of our work-time: 3hrs obligatory (peaceful pace) for minimal personal comfort, and 3hrs optional (individually chosen pace) for any personal goal, we thing inseparably about our equipment:
+    - Everything has to be produced the way which balance consumption need by it's enjoyable production live out
