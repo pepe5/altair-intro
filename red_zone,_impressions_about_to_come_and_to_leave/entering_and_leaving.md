@@ -41,10 +41,6 @@ Here is [labor contract]:
     2.  in brown-zone - most common personal-business solution: In fact, we are encouraged to have this for months of [leaving-drills]. You need to have accounting at us if you want not to become external-supplier.
     3.  in other zones (except white one of course): to have own business in other than brown-zone means, everything is recorded: such case is acceptable for us, because it contributes to our KB
 
-#### Introductory description of materials & services inter-dependencies: {#introductory-description-of-materials-services-inter-dependencies}
-
-*   everyone has right to be “socially satisfied - by free-society services:***
-
 #### Description of legal and economical conditions of entering and leaving {#description-of-legal-and-economical-conditions-of-entering-and-leaving}
 
 When you are entering, you go to contribute amount of property which can be higher or lower than actual evaluation of [_personal-kit_] _+_ [_personal-field_].
