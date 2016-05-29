@@ -1,4 +1,4 @@
-## Queues {#queues}
+ ## Queues {#queues}
 
 We already said that we use queues for (practically) everything what we want to reach.
 
@@ -38,7 +38,11 @@ Queues (availability) cannot be conditioned other way than by membership. In oth
 
 #### **_Qs from perspective of newcomer_** - {#Qs-from-newcomers}
 
+We orientate between Qs without confusion, but for newcomers it is often hard to understand this great source of knowledge and possibilities. So let's count some orienting points yet for them: Mainstream poeple do not know Qs; what is most similiar in theirs world are ***projects***:
+
 - 
+
+
 
 
 ### benefits from having queues {#benefits-from-having-queues}
