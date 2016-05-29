@@ -71,7 +71,15 @@ What is _many troubles cause_ here - is not difference between these kinds of wo
 
 ### Introductory description of materials & services inter-dependencies: {#introductory-description-of-materials-services-inter-dependencies}
 
-*   everyone has right to be “socially satisfied - by free-society services:
-*   we do not have anything what do not has fans-base strong enough: (Except *minimal personal comfort*) We completely rely on fact that we will not have anything what we will not produce voluntarily in our free time. <br />
+*   everyone has right to be “socially satisfied - by free-society services: *minimal personal comfort* is not bound to *slavery* anymore.
+
+*   we do not have anything what do not has fans-base strong enough: (Except *minimal personal comfort*) We completely rely on fact that we will not have anything what we will not produce voluntarily in our free time.
+
     - As we have just 2 phases of our work-time: 3hrs obligatory (peaceful pace) for minimal personal comfort, and 3hrs optional (individually chosen pace) for any personal goal, we thing inseparably about our equipment:
     - Everything has to be produced the way which balance consumption need by it's enjoyable production live out
+
+*   our goal is to setup generations-long sustainability of our (healthily experienceable) infrastructure
+
+    -
+
+
