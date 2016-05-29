@@ -12,7 +12,7 @@
    * [Supporting / Regulatory Processes](personal_daily_life/supporting__regulatory_processes.md)
    * [Clusters INTRO](personal_daily_life/clusters_intro.md)
 * [Red zone, impressions about to come and to leave](red_zone,_impressions_about_to_come_and_to_leave/README.md)
-   * Services
+   * [Services](red_zone,_impressions_about_to_come_and_to_leave/services.md)
    * [Relating to other zones](red_zone,_impressions_about_to_come_and_to_leave/relating_to_other_zones.md)
 * [3ε](3/README.md)
    * [Hour-1: explanations](3/hour-1_explanations.md)
