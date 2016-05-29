@@ -13,7 +13,7 @@ Basic 3 types are these:
 
 1.  **_new queue_** - every new queue need time to reach the public: in this it’s stage all joining ‘applicants’ are going to unordered pool. Then there is announcement of ‘Q’ day including conditions by which Q transitions to ordered stage; then there is again settling period; and ‘Q’ day itself.
 2.  **_established queue_** - ordered ones serves basic purpose: “_1st comes 1st goes for_”. In moment when you are just in front - one ready to go for the thing: you get notification about it and then availability of the thing is going through availability-expiration _‘timeout_’ period.
-3.  **_non-emptying queues_** - are those one, where it’s objects are delivered by it’s fans-club always in advance and in bigger amount than current amount of applicants.Having queues emptying is oftenly used as measuring factor of reaching level of vision implementation. We implement emptying queues by sheds, work-positions redundancy, tent-docks redundancy, facilities redundancy and statistics-based (instead of consolidation-based) planning.
+3.  **_non/drying queues_** - Not-drying Qs are those one, where it’s objects are delivered by it’s fans-club always in advance and in bigger amount than current amount of applicants.Having queues emptying is oftenly used as measuring factor of reaching level of vision implementation. We implement emptying queues by sheds, work-positions redundancy, tent-docks redundancy, facilities redundancy and statistics-based (instead of consolidation-based) planning.
 
 If there would be a reason for exceptions in order, then it is not solved by exceptioning, but by:
 
@@ -42,7 +42,7 @@ We orientate between Qs without confusion, but for newcomers it is often hard to
 
 - *(well established) long-time running projects* (***"established queues"***) - are those which has enough bidders / voting-supporters, well-known clients, and (real)-fans / active-supporters already long time. 
 - *starting-up big projects* (***"new queues"***) - are those which has enough bidders / voting-supporters and fans / active-supporters already long time. As big projects: the goal of active-supporters is to become part of *established queues*.
-- 
+- *drying projects* ()
 
 
 
