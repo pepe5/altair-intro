@@ -24,7 +24,7 @@ See [Details on typical life situations at 3 hrs “personal career” period]:
 
 ### SMART Projects “Management” {#smart-projects-management}
 
-*   *** as you can see ***, every person and every co-house whatever sector it is, it’s working on a _“Project”_, which is important for _openness_ of the think. We can imagine projects as time-dimension / conscious counterpart of space-dimension / unconscious Queues.
+*   *** as you can see ***, most of persons and most of co-houses whatever sector it is, it’s working on a _“Project”_, which is important for _openness_ of the think. We can imagine projects as time-dimension / conscious counterpart of space-dimension / unconscious Queues.
 *   People see what you try to build up, and they can join.
 *   People from other co-houses see what you are trying to build up and thus they can start to work on supplies.
 *   People from all over the Company see what you are trying to build up and thus they can vote for you during investment Titles.
