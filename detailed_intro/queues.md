@@ -40,9 +40,9 @@ Queues (availability) cannot be conditioned other way than by membership. In oth
 
 We orientate between Qs without confusion, but for newcomers it is often hard to understand this great source of knowledge and possibilities. So let's count some orienting points yet for them: Mainstream poeple do not know Qs; what is most similiar in theirs world are ***projects***, but we have to understand deep difference of that: *goal of project* is *to finish*; *goal of queue* is *to flow forever*.
 
-- *(well established) long-time running projects* (***"established queues"***) - are those which has enough bidders / voting-supporters, well-known clients, and (real)-fans / active-supporters already long time. Goal for active-supporters can be here to repeat sustainability drills; to tune up little-bit sustainability factors; or to go through fail-over drills.
-- *not-drying projects* (###)
-- *starting-up big projects* (***"new queues"***) - are those which has enough bidders / voting-supporters and fans / active-supporters already long time. As big projects: the goal of active-supporters is to become part of *established queues*.
+- *(well established) long-time running projects* (for ***"established queues"***) - are those which has enough voting-supporters, bidders, well-known clients, and (real)-fans / active-supporters already long time. Goal for active-supporters can be here to repeat sustainability drills; to tune up little-bit sustainability factors; or to go through fail-over drills.
+- *drying projects* (for ***drying queues***) - are those where bidders amount is bigger than needed (real)-fans amount. Actual goal for active-supporters is to become part set up convenient environment for the newcomers.
+- *starting-up big projects* (for ***"new queues"***) - are those which has enough bidders / voting-supporters and fans / active-supporters already long time. As big projects: definitive goal of active-supporters is to become part of *established queues*.
 
 
 
