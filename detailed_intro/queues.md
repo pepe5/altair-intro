@@ -43,7 +43,7 @@ We orientate between Qs without confusion, but for newcomers it is often hard to
 - *(well established) long-time running projects* (for ***"established queues"***) - are those which has enough voting-supporters, bidders, well-known clients, and (real)-fans / active-supporters already long time. Goal for active-supporters can be here to repeat sustainability drills; to tune up little-bit sustainability factors; or to go through fail-over drills. Important part of sustainability of this queues' infrastructure is ***complex-circulation***: recycling increases attractivity of project great.
 - *drying projects* (for ***drying queues***) - are those where bidders amount is bigger than needed (real)-fans amount. Actual goal for active-supporters is to become part set up ***convenient environment*** for the newcomers.
 - *starting-up big projects* (for ***"new queues"***) - are those which has enough bidders / voting-supporters and fans / active-supporters already long time. As big projects: definitive goal of active-supporters is to become part of *established queues*.
-- *local-interest projects* - dominant mainstream perspective: without any sense of ***inter-connectedness***.
+- *local-interest projects* - dominant mainstream perspective: without any sense of ***inter-connectedness***. With this view, you will feel mostly oppressed, but it is because of your too small interest in our-&-your KB source.
 
 
 ### benefits from having queues {#benefits-from-having-queues}
