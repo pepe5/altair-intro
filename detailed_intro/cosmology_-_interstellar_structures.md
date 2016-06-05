@@ -31,7 +31,7 @@ Ad blue: We can understand blue relating in 2 ways:
 
 We have many fans of *conspiracy theories*. (The same way as we have Anarchists here, Comunnists, Preppers, Hippies, Channelists, and all other kinds of *Religions*.)
 
-But one Conspiracy is connected with our fundamentals: Vendeta-Movement. I personally believe - as many of us, that Slavery-propagating Islam was imported to Europe by CIA in reponse to [Occupy Wallstreet](https://en.wikipedia.org/wiki/Occupy_movement): just to show public masses what is West. This is just matter of course in current ***[Neo-feudalism](https://en.wikipedia.org/wiki/Neo-feudalism)***.
+But one Conspiracy is connected with our fundamentals: Vendeta-Movement. I personally believe - as many of us, that Slavery-propagating Islam was imported to Europe by CIA in response to [Occupy Wallstreet](https://en.wikipedia.org/wiki/Occupy_movement): just to show public masses what is West. This is just matter of course in current ***[Neo-feudalism](https://en.wikipedia.org/wiki/Neo-feudalism)*** (namely ***[Disaster Capitalism](https://en.wikipedia.org/wiki/The_Shock_Doctrine)***).
 
 ### Corporations
 
@@ -47,7 +47,12 @@ On the other hand if we accept our form of living as good implementation of Huma
 
 ### Evolution of models in Co-Houses "competition"
 
+Our co-houses can grow and the same way they can decline.
 
+- As we have right to freely and easily move between our co-houses, and as we know about each co-house everything, we naturally move to those where it goes best way.
+- Consequently, some co-houses need bigger fields, some are in situations where other co-houses "somehow" asks for theirs fields instead...
+- Every co-house has obligation ***to accept any newcomer***: this way, every co-house has to be supported in it's growth. Co-house can grow big in general, but it has to satisfy needs of clients, newcomers, and all members: Otherwise if claim arises, there is obligation for *"Mitosis"*.
+- Every co-house has obligation ***to sustain the service***: if co-house has such small amount of members, that it cannot serve the service, it has to hand-over the service to new immigrants-wave. Claims about bad service can of course arise from any client, any newcomer, or any member: Process of investigations resulting in voting is performed.
 
 
 ***
