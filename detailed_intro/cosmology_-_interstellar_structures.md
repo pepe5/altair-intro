@@ -26,9 +26,23 @@ Ad blue: We can understand blue relating in 2 ways:
 *   When related entities are too near to each other, so tendentious interaction have to be inhibited, we talk about **_blue membrane_**.
 *   When relating entities are too far from each other, we talk about blue channels of **_blue network_ **of blue sphere service.
 
+## Humanistic Evolucionism
+### Note on Conspiracies
+
+We have many fans of *conspiracy theories*. (The same way as we have Anarchists here, Comunnists, Preppers, Hippies, Channelists, and all other kinds of *Religions*.)
+
+But one Conspiracy is connected with our fundamentals: Vendeta-Movement. I personally believe - as many of us, that Slavery-propagating Islam was imported to Europe by CIA in reponse to [Occupy Wallstreet](https://en.wikipedia.org/wiki/Occupy_movement): just to show public masses what is West. This is just matter of course in current ******
+
+### Corporations
+
+We (or at least many of us) believe that ***[Corporatocracy](https://en.wikipedia.org/wiki/Corporatocracy)*** is natural successor of globalizing (federating) democracies. We cannot stop it. 
+
+At the other hand
+
+
 ***
 
-#### Personal start {#personal-start}
+## Personal start {#personal-start}
 
 You can:
 
