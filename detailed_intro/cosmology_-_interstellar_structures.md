@@ -54,6 +54,8 @@ Our co-houses can grow and the same way they can decline.
 - Every co-house has obligation ***to accept any newcomer***: this way, every co-house has to be supported in it's growth. Co-house can grow big in general, but it has to satisfy needs of clients, newcomers, and all members: Otherwise if claim arises, there is obligation for *"Mitosis"*.
 - Every co-house has obligation ***to sustain the service***: if co-house has such small amount of members, that it cannot serve the service, it has to hand-over the service to new immigrants-wave. Claims about bad service can of course arise from any client, any newcomer, or any member: Process of investigations resulting in voting is performed.
 
+-- This way our co-houses and its' villages grow and decline: and best-suitted cultures are *evolutionary growing*.
+
 
 ***
 
