@@ -131,6 +131,12 @@ Let’s summarize here yet list of concepts which we are programmatically trying
 
 *   Yes - we have some suppliers. All of them must be fair trade and bio. We do not require from them to use “work tracking” knowledge sharing.
 
+*   We welcome all intentional communities to join us
+*   
+*   One of our highest priorities in terms of ***Red Projects***, is to provide and maintain Documentary portal about all kinds of Intentional Communities and about building Humanistic Civilisation.
+
+*   In wider sense, we cooperate with anybody on issues which we share as common: see ***[Netocracy](https://en.wikipedia.org/wiki/Netocracy)***.
+
 Let’s list those all actual here
 
 *   [ubuntu party](https://en.m.wikipedia.org/wiki/Ubuntu_Party)
