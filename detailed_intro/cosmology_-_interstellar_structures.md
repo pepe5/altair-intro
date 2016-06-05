@@ -42,7 +42,7 @@ On the other hand if we accept our form of living as good implementation of Huma
 - well accessible - fully transparent information
 - easily accessible relocation possibilitiess
 
--- then we can easily thing about our Companies-Network as about new Civilization form of [City-states](https://en.wikipedia.org/wiki/City-state). We support this idea: as best successor of Corporatocracy: In future days, live of big populations will be completelly dependent on theirs employers-corporations. The states will be paralyzed by dependency on corporations. But if there will be "good" corporations, then at least this can be a rescue for seekers of happy and valuable live. There will be many bad corporations, and the same way many good corporations: We will try our best.
+-- then we can easily thing about our Companies-Network as about new Civilization form of [City-states](https://en.wikipedia.org/wiki/City-state). We support this idea: as best successor of Corporatocracy: In future days, life of big populations will be completelly dependent on theirs employers-corporations. The states will be paralyzed by dependency on corporations. But if there will be "good" corporations, then at least this can be a rescue for seekers of happy and valuable live. There will be many bad corporations, and the same way many good corporations: We will try our best.
 
 
 ### Evolution of models in Co-Houses "competition"
