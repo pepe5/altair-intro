@@ -31,13 +31,23 @@ Ad blue: We can understand blue relating in 2 ways:
 
 We have many fans of *conspiracy theories*. (The same way as we have Anarchists here, Comunnists, Preppers, Hippies, Channelists, and all other kinds of *Religions*.)
 
-But one Conspiracy is connected with our fundamentals: Vendeta-Movement. I personally believe - as many of us, that Slavery-propagating Islam was imported to Europe by CIA in reponse to [Occupy Wallstreet](https://en.wikipedia.org/wiki/Occupy_movement): just to show public masses what is West. This is just matter of course in current ******
+But one Conspiracy is connected with our fundamentals: Vendeta-Movement. I personally believe - as many of us, that Slavery-propagating Islam was imported to Europe by CIA in reponse to [Occupy Wallstreet](https://en.wikipedia.org/wiki/Occupy_movement): just to show public masses what is West. This is just matter of course in current ***[Neo-feudalism](https://en.wikipedia.org/wiki/Neo-feudalism)***.
 
 ### Corporations
 
 We (or at least many of us) believe that ***[Corporatocracy](https://en.wikipedia.org/wiki/Corporatocracy)*** is natural successor of globalizing (federating) democracies. We cannot stop it. 
 
-At the other hand
+On the other hand if we accept our form of living as good implementation of Human Rights - Wellbeing-based "Democracy" mean, we can easily label it as succeeding form of Civilation: If we sustain well (our 2 highest priorities):
+
+- well accessible - fully transparent information
+- easily accessible relocation possibilitiess
+
+-- then we can easily thing about our Companies-Network as about new Civilization form of [City-states](https://en.wikipedia.org/wiki/City-state). We support this idea: as best successor of Corporatocracy: In future days, live of big populations will be completelly dependent on theirs employers-corporations. The states will be paralyzed by dependency on corporations. But if there will be "good" corporations, then at least this can be a rescue for seekers of happy and valuable live. There will be many bad corporations, and the same way many good corporations: We will try our best.
+
+
+### Evolution of models in Co-Houses "competition"
+
+
 
 
 ***
