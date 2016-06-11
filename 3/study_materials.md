@@ -87,7 +87,7 @@ From this we can see that in society we basically have 2 "propagandas":
    - Even when this model brings so precious value of self-unification, still here it is hard for the proponents to state that something else can be valid model.
 
 
-3. ***transitional*** model: states it is somehow between: both models are valid to be experienced in some situation.
+3. ***transitional*** model: states that it is somehow between: both models are valid to be experienced in some situation.
    - Only known psychological model here currently to me is [NVC](cnvc.org).
    - In introspective trainings, this is reflection of [Sambhogakāya](https://en.wikipedia.org/wiki/Sambhogakāya) state.
    - In western philosophy this can be reflected for example by [Plane of immanence](https://en.wikipedia.org/wiki/Plane_of_immanence).
