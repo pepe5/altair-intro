@@ -116,3 +116,9 @@ This all comes from having *emotional resilience* inseparably interconnected to 
 - In total, we can sense in contemporary society aggressiveness between different groups of activists. 
 - People in cruel societies are encouraged to adapt there: *just for theirs sustainable future*. This makes societies to be unsustainable even more.
 
+
+Model of ***profesionalism*** pulls people to elitarism
+1. It is *profesional* to be immoral
+2. Profesionalism with unconditional adaption makes people to proclaim socialy spreat conflicts of interests as normal and thus necessary
+
+
