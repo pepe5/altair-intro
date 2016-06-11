@@ -118,7 +118,7 @@ This all comes from having *emotional resilience* inseparably interconnected to 
 
 
 Model of ***profesionalism*** pulls people to elitarism
-1. It is *profesional* to be immoral
-2. Profesionalism with unconditional adaption makes people to proclaim socialy spreat conflicts of interests as normal and thus necessary
+1. It is *profesional* to be immoral: because it is more important to be professional than anything else.
+2. Profesionalism with unconditional adaption makes people to proclaim socialy spreat conflicts of interests as normal and thus necessary: in modern people management it is already official: "you have to be (morally) flexible".
 
 
