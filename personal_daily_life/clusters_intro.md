@@ -36,12 +36,24 @@ As everything is (in) Queue here, the same way you can see that everything is (i
 
 Because any Queue defines a Clusters around it (The Producers and The Clients), the Project defines Cluster-run start (and continuation).
 
+#### vertical perspective
+
 *   Our companies cluster is Project (of Blue-network services) of which you you are engaged member!
 *   Our public services is Project (of our great public services) of which you you are engaged member!
 *   Our villages are Project (of self-sustainability) of which you you are engaged member!
 *   Your co-house is Project (of it’s Charter) of which you you are engaged member!
 *   Your career can be focused on moving some Project forward too.
 
-Implementation of social level of support of humanism
+#### horizontal perspective
 
-**… part 3 … Red + Orange zones**
+*   Our ***KB-project*** drives our *knowledge-base* it includes
+    - Qs-catalog
+    - Products-catalog
+    - Solutions-catalog
+    - Personal-records 
+    - Documentation-project (about external projects) and -
+    - Projects-catalog itself
+     
+*   Our ***HR-project*** drives web-portal for public and for newcomers
+
+*   Our ***tech-project*** drives our technology-equipment: votes about IO priorities and about investments needed
