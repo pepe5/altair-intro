@@ -47,10 +47,10 @@ Because any Queue defines a Clusters around it (The Producers and The Clients), 
 #### horizontal perspective
 
 *   Our ***KB-project*** drives our *knowledge-base* it includes
-    - Qs-catalog
+    - Qs-catalog: see [[Queues]]
     - Products-catalog
     - Solutions-catalog
-    - Personal-records 
+    - People-capital 
     - Documentation-project (about external projects) and -
     - Projects-catalog itself
      
