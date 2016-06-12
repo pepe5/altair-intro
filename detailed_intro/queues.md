@@ -79,7 +79,7 @@ Let's describe what our queues concept means for simple man mainly: Most people 
 
 *   We do not have shops at all. We have showrooms and internet eshops.
 *   The good cannot be presented in any other way than 1/ photo of purely itself without any decorations or even photomontage2/ textual descriptions of parameters - measured ones - no commentaries
-*   In the eshop, you can of course search, sort, group, & explore deep background of goods by commentaries about it, but the presenting page cannot show this.
+*   In the e-shop, you can of course search, sort, group, & explore deep background of goods by commentaries about it, but the presenting page cannot show this.
 
 There is of course more things attached to the good beside photos and parameters, like those comentary forums, origins tracking, live-trackings of the pieces, live-chats of its fans, & e-portals helping the gathering, construction and distribution around the good to flow. Everything just available for all. (No restrictions, no payments. The authentication in original sense is made automatically without any need of interaction by personal kit. (E)-robots are not problem at us, because every query must be authenticated, and every program/system has some physical owner - a man who started it - trackable.)
 
