@@ -50,7 +50,7 @@ Because any Queue defines a Clusters around it (The Producers and The Clients), 
     - Qs-catalog: see [[Queues]]
     - Products-catalog
     - Solutions-catalog
-    - People-capital 
+    - People-capital: we do not name this "HR"; even when Capital is very similar meaning as Resource is. Here term "Capital" is chosen because it labels also *value* of man to him/her self itself.
     - Documentation-project (about external projects) and -
     - Projects-catalog itself
      
