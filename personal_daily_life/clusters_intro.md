@@ -55,7 +55,8 @@ Because any Queue defines a Clusters around it (The Producers and The Clients), 
 <br />
 
 *   Our ***People-Capital*** - project: drives web-portal for public and for newcomers. We do not name this "HR"; even when Capital is very similar meaning as Resource is. Here term "Capital" is chosen because it labels also *value* of man to him/her self itself.
-    - Tunes 
+    - Tunes Interview criteria: both offerings presented and requirements checked.
+    - Studies and presents ***Diversity-*** -subproject of our KB. 
 <br />
 
 *   Our ***Tech-Capital*** drives our technology-equipment: votes about IO priorities and about investments needed.
