@@ -51,8 +51,8 @@ Because any Queue defines a Clusters around it (The Producers and The Clients), 
     - Products-Catalog: focuses on what mainstream emphasises: see [Qs to consumptions](https://altair.gitbooks.io/intro/content/detailed_intro/queues.html#qs-to-consumptions-of-materials)
     - Solutions-catalog: focuses on identifying Values of *Needs* and *Labelings of Directions* - how to understand them. 
     - Documentation-project (about external projects) and -
-    - Projects-catalog itself
+    - Projects- , People-, & Tech- Catalogs itself.
 
 *   Our ***People-capital*** - project: drives web-portal for public and for newcomers. We do not name this "HR"; even when Capital is very similar meaning as Resource is. Here term "Capital" is chosen because it labels also *value* of man to him/her self itself.
 
-*   Our ***tech-project*** drives our technology-equipment: votes about IO priorities and about investments needed
+*   Our ***Tech-project*** drives our technology-equipment: votes about IO priorities and about investments needed
