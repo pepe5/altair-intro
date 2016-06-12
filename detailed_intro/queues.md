@@ -78,7 +78,7 @@ From the other side - producers delivers to Qs too:
 Let's describe what our queues concept means for simple man mainly: Most people (in amount) reaches theirs live-consumption material (for mainstream presented by corporations as ‘consumer goods’) in hyper-markets+. As we [described](http://drive.google.com/open?id=1_WmdAeT4JpaNNRLEumzM6-qKFPdHVChXpPKE4AuK6Dg), this shows very poor position of consumers if front of corporation holders.
 
 *   We do not have shops at all. We have showrooms and internet eshops.
-*   The good cannot be presented in any other way than 1/ photo of purely itself without any decorations or even photomontage2/ textual descriptions of parameters - measured ones - no commentaries
+*   The good cannot be presented in any other way than 1/ photo of purely itself without any decorations or even photo-montage 2/ textual descriptions of parameters - measured ones - no commentaries
 *   In the e-shop, you can of course search, sort, group, & explore deep background of goods by commentaries about it, but the presenting page cannot show this.
 
 There is of course more things attached to the good beside photos and parameters, like those comentary forums, origins tracking, live-trackings of the pieces, live-chats of its fans, & e-portals helping the gathering, construction and distribution around the good to flow. Everything just available for all. (No restrictions, no payments. The authentication in original sense is made automatically without any need of interaction by personal kit. (E)-robots are not problem at us, because every query must be authenticated, and every program/system has some physical owner - a man who started it - trackable.)
