@@ -47,13 +47,12 @@ Because any Queue defines a Clusters around it (The Producers and The Clients), 
 #### horizontal perspective
 
 *   Our ***KB-project*** drives our *knowledge-base* it includes
-    - Qs-catalog: see [[Queues]]
-    - Products-Catalog: see 
-    - Solutions-catalog
-    - People-capital: we do not name this "HR"; even when Capital is very similar meaning as Resource is. Here term "Capital" is chosen because it labels also *value* of man to him/her self itself.
+    - Qs-catalog: focuses on IOs; see [[Queues]]
+    - Products-Catalog: focuses on what mainstream emphasises: see [[Qs to consumptions]]
+    - Solutions-catalog: 
     - Documentation-project (about external projects) and -
     - Projects-catalog itself
-     
-*   Our ***HR-project*** drives web-portal for public and for newcomers
+
+*   Our ***People-capital*** - project: drives web-portal for public and for newcomers. We do not name this "HR"; even when Capital is very similar meaning as Resource is. Here term "Capital" is chosen because it labels also *value* of man to him/her self itself.
 
 *   Our ***tech-project*** drives our technology-equipment: votes about IO priorities and about investments needed
