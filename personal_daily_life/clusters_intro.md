@@ -47,9 +47,9 @@ Because any Queue defines a Clusters around it (The Producers and The Clients), 
 #### horizontal perspective
 
 *   Our ***KB-project*** drives our *knowledge-base* it includes
-    - Qs-catalog: focuses on IOs; see [[Queues]]
-    - Products-Catalog: focuses on what mainstream emphasises: see [[Qs to consumptions]]
-    - Solutions-catalog: 
+    - Qs-catalog: focuses on IOs; see [Queues](https://altair.gitbooks.io/intro/content/detailed_intro/queues.html)
+    - Products-Catalog: focuses on what mainstream emphasises: see [Qs to consumptions](https://altair.gitbooks.io/intro/content/detailed_intro/queues.html#qs-to-consumptions-of-materials)
+    - Solutions-catalog: focuses on identifying Values of *Needs* and *Labelings of Directions* - how to understand them. 
     - Documentation-project (about external projects) and -
     - Projects-catalog itself
 
