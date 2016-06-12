@@ -50,9 +50,9 @@ Because any Queue defines a Clusters around it (The Producers and The Clients), 
     - Qs-catalog: focuses on IOs; see [Queues](https://altair.gitbooks.io/intro/content/detailed_intro/queues.html)
     - Products-Catalog: focuses on what mainstream emphasizes: see [Qs to consumptions](https://altair.gitbooks.io/intro/content/detailed_intro/queues.html#qs-to-consumptions-of-materials).
     - Solutions-catalog: focuses on identifying Values of *Needs* and *Labeling of Directions* - how to understand them. It takes eventual Projects as black-boxes: here we focus on mapping Need--Satisfaction experiences and on comparison of various Need-understandings and particular Satisfaction understandings rather then on technical steps of each particular solution.
-    - Documentation-project (about external projects) and -
+    - Documentation-project: about external projects: this is one of typical Products to "sell": but of course we do not sell this to Subjects of documentation effort, but as Added-value in our Educative Camps, WWOOFing, and Welnesses. See [Cooperations](https://altair.gitbooks.io/intro/content/red_zone,_impressions_about_to_come_and_to_leave/commentaries.html#cooperations).
     - Projects- , People-, & Tech- Catalogs itself.
 
 *   Our ***People-Capital*** - project: drives web-portal for public and for newcomers. We do not name this "HR"; even when Capital is very similar meaning as Resource is. Here term "Capital" is chosen because it labels also *value* of man to him/her self itself.
 
-*   Our ***Tech-Capital*** drives our technology-equipment: votes about IO priorities and about investments needed
+*   Our ***Tech-Capital*** drives our technology-equipment: votes about IO priorities and about investments needed.
