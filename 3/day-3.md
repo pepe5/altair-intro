@@ -33,3 +33,6 @@ Everyone has intention to change something: what we find, learn, and enjoy here 
     -    call for company investment in your co-house
     -    ...
 
+*   Best way how to do this is to get coach and formulate project, but also being with coach without any personal project is good way: work of your coach is -
+    -    to setup the project by him-self, and skip any attempts to make you verbal contributor if you do not wish
+    -    to offer to you existing project with similar goals
