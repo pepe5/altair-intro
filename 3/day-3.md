@@ -31,5 +31,5 @@ Everyone has intention to change something: what we find, learn, and enjoy here 
     -    change in processes of some another co-house
     -    call for cell mitosis
     -    call for company investment in your co-house
-    -    
+    -    ...
 
