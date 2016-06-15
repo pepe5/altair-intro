@@ -25,7 +25,7 @@ Everyone has intention to change something: what we find, learn, and enjoy here 
     -    change in career path
     -    moving to another co-house
     -    tuning balance in work-load of participating members of some work-position in your co-house
-    -    call for regulation of social and free-time power of members of your co-house
+    -    call for regulation of social or free-time power of members of your co-house
     -    relocation of some equipment from one co-house to another one
     -    change in culture-declaration of your co-house
     -    change in processes of some another co-house
