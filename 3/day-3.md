@@ -31,6 +31,7 @@ Everyone has intention to change something: what we find, learn, and enjoy here 
     -    change in processes of some another co-house
     -    call for cell mitosis
     -    call for company investment in your co-house
+    -    call for particular solution in disciplinary action
     -    ...
 
 *   Best way how to do this is to get coach and formulate project, but also being with coach without any personal project is good way: work of your coach is -
