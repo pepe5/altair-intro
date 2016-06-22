@@ -2,11 +2,11 @@
 
 Long-term “_preparation_” phase - is NGO.
 
-Long-term “_live_” conception - is company. Later we can transform to form of local government and yet later there could be form of republic :) (This crazy 'later forms' we do not effectively plan to reach and if we talk about them we count on powers-separation - see [cosmology])
+Long-term “_live_” conception - is company. Later we can transform to form of local government and yet later there could be form of republic :) (This crazy 'later forms' we do not effectively plan to reach and if we talk about them we count on powers-separation - see [cosmology]. Actually, at current versions of our [Red-book] and [Green-book], we are here to be atractive and handy for just a minority of the population - see [[commentaries on outer structures and outer values](https://altair.gitbooks.io/intro/content/red_zone,_impressions_about_to_come_and_to_leave/commentaries.html#we-are-not)])
 
 Company form is necessary to protect participants from money handling. This is shares-stock form - only participants can be holders - all must have equal amount of shares. Here are some regulatory burden yokes - see chapter [red zone] ***.
 
-Project itself goes through phases labeled similarly to zones - see chapter [projecting phases]
+Project itself goes through phases labeled similarly to zones - see chapter [projecting phases].
 
 ### Right to healthiness {#right-to-healthiness}
 
