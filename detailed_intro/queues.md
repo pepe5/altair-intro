@@ -6,6 +6,8 @@ Queues is core technology mean which we have to implement vision of our values.
 
 *   most of queues are ‘green’: i.e.: 1/ transparently readable for (our) public2/ publicly writable - anyone (of us) can join it
 *   most of queues are “moderator free” ***
+*   simplest (eventhough oversimplified) explanation of what queues are is: You can imagine Qs as our distributors: when for example agrar producer want to sell something, s/he do not have other chance than only to exclusively depend on very strong distributor whish slurps major portion of added price on the product. See [Markets]. At us, we do our distribution for us by ourselves. More strictly: we are not agains producer-distributor-installer-maintainer chain, but we have it with fully transparent knowledge sharing and withou profit leaks.
+
 
 ### types INTRO {#types-intro}
 
