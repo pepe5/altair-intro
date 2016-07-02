@@ -28,7 +28,7 @@
 Imagine this: you want to know how to grow beans, apples, ginger, …; how to maintain saw-mill, wind power-plant, steam-cutter; how to conserve plants, weave flax, melt steel, craft glass tools, assemble engine; setup distributed storage, video conferencing, measuring biometrics; …
 
 *   at us you can learn it all - for free
-    - we have many SWs buyed which is used in R&D and in enterprices - all machines design, manufacturing numerics, CADs, plotting, automation and so on.
+    - we have many SWs buyed which is used in R&D and in enterprices - all machines design, manufacturing numerics, CADs, plotting, automation and so on...
 
 *   only condition is that all what you learn (uncommon) at us, or invent at us - will stay here, or under non-for-profit license
 
