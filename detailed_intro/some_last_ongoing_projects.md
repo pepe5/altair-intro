@@ -25,8 +25,8 @@ Happy society - social approach
 
 *   [theVenusProject.com](http://thevenusproject.com) - all medias
 *   [theZeitgeistMovement.com](http://thezeitgeistmovement.com) - mainly ZeitGeist Addendum
-*   [GreystonBakery.com](http://greystonbakery.com/) - humanity wakening up + SocioCracy
-*   [socionet.us](http://www.socionet.us/) - SocioCracy
+*   [GreystonBakery.com](http://greystonbakery.com/) - humanity wakening up + [SocioCracy](https://en.wikipedia.org/wiki/Sociocracy)
+*   [socionet.us](http://www.socionet.us/) - [SocioCracy](https://en.wikipedia.org/wiki/Sociocracy)
 *   [whyPoverty.net](http://whypoverty.net)
 *   [transparency.org](http://transparency.org)
 
