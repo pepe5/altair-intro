@@ -14,8 +14,8 @@ All of these projects are from our perspective partial-only, but we accept them 
 *   [TTZM](www.ic.org/directory/the-transcendent-zeitgeist-movement-ttzm/)
 *   Project Venus, Zeitgeist movement - tech understanding and solution contribution
 *   Ami Institute - humanity wakening up contribution
-*   [www.](http://www.wwoof.net)[**wwoof**](http://www.wwoof.net)[.net](http://www.wwoof.net) - enabling contact with good farming
-*   [www.domyZeSlamyaHliny.cz](http://www.domyzeslamyahliny.cz/) - tech solution contribution
+*   [**wwoof**](http://www.wwoof.net) - enabling contact with good farming
+*   [domyZeSlamyaHliny.cz](http://www.domyzeslamyahliny.cz/) - tech solution contribution
 
 #### Massmedia attempts {#massmedia-attempts}
 
