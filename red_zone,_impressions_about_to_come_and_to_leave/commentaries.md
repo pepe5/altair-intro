@@ -12,6 +12,14 @@
 *   all legalization of homeless states, personal bankruptcy, household executions, …
 *   all “work” positions against healthiness or family life and/or without real guidance how to gain healthy one
 
+May be you do not feel as a slave
+- on one side it is "good": you accepted your *part* of accountability.
+- on the other hand, this can be quite bad: you already masked out what you lost all hopes after all.
+
+- how you imagine *optimal family capital" for modest live in modern days: is it really mortgaged flat; inflexible 8+hrs exhaustive unhealthy work for both parents; misleading education for your children; and untenable prices for every single service for the flat, for cummuting, for children and for elders?
+  → maybe it would be better for every family to "have" own garden - full of vegetables, be in local bussines; heathy and transparently flexible work, transparent community-based education, and available equipment for interesting factoring?
+
+
 #### concurrency fights {#concurrency-fights}
 
 *   *** hidings during selling ***
