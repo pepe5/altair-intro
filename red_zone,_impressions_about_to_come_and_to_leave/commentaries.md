@@ -114,11 +114,11 @@ Let’s summarize here yet list of concepts which we are programmatically trying
 
 *   we know, it is not easy; it has 3 work-outs:
 
-→ many goods and services are done by public-services fans-clubs just for free
+    → many goods and services are done by public-services fans-clubs just for free
 
-→ other goods for personal goals: you have to do by yourself
+    → other goods for personal goals: you have to do by yourself
 
-→ yet bigger goods: you have to fund project-oriented co-house / fans-club
+    → yet bigger goods: you have to fund project-oriented co-house / fans-club
 
 *   see many examples in [green] and [blue] zones
 
@@ -145,6 +145,7 @@ Let’s list those all actual here
 *   reMakers & Diyode
 *   venus & zeitgeist
 *   zen peacemakers
+*   [open-source OSE](opensourceecology.org)
 *   ekovesnice.cz
 *   ***
 
