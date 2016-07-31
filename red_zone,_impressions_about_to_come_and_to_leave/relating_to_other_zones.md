@@ -17,7 +17,7 @@ We are also trying to move our cooperation and inter-connection with our support
 
 If you had read till now, and you still feel it would be beneficial to have this on the planet, please join us.
 
-*   maybe you kind of impression that it sounds complicated: but:
+*   maybe you have kind of impression that it sounds complicated: but:
 
 → is it complicated to direct some middle-school - be a director of some school?
 
