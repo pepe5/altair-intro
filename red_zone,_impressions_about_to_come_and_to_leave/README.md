@@ -8,16 +8,16 @@
 ### 1st pros and cons counting about our company {#1st-pros-and-cons-counting-about-our-company}
 
 *   we have quite minimalistic private facilities - and equal to all
-*   - but we don’t have any loans
+    - but we don’t have any loans
 *   we do not have full-time specializations
-*   - but we have enormous amount of training means for part-time specializations
+    - but we have enormous amount of training means for part-time specializations
 *   we do not allow creativity and competitions -based job careers
-*   - but we require quite big part of working time to be spent by creativity
+    - but we require quite big part of working time to be spent by creativity
 
 *   if you like our attempt of human-live support - you are welcome
-*   - but you have to accept our requirements
+    - but you have to accept our requirements
 *   is most known, that we are “big brothers” (we record: 1/non-private activities, 2/resources use, & 3/biometrics),
-*   - but we -all- brothers & sisters are here and willing to (literally) push out - everyone who feels need to be free from this. (S/he has to understand, that we also want to have him/her to be free from us - if s/he wants so.)
+    - but we -all- brothers & sisters are here and willing to (literally) push out - everyone who feels need to be free from this. (S/he has to understand, that we also want to have him/her to be free from us - if s/he wants so.)
 
 *   3 biggest “outside” visible motivations for coming would be 1/ life (quite reach mainly from social perspective) without loans 2/ knowledge sharing (mainly useful for becoming qualified for some crafting), and 3/ stunning travelling (enabling ones to travel with whole family for safe and convenient work anywhere: This is incredibly useful in today's era of enormous migration connected with discrediting long-term travelers name)
 *   1 of strongest motivation to give “privates from previous era” to Company could be to enable company to accommodate own kins. But this is not allowed for new-comers. Conservation period is about 4-8 yrs. For this -quite long- transitional period, brown zone is used.
