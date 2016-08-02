@@ -98,13 +98,13 @@ Now, let's return to dominating model, and try to identify weaknesses of that on
 
 ### Model of ***Emotional Resilience*** pulls practitioner to -
 
-- (*profesional*) *ruthlessness* : it is expressed by saying *"Heed your own problems, instead of problems of others."*
+- (*profesional*) *ruthlessness* : it is expressed by saying *"Heed your own problems, instead of problems of others."* <br />
   $$\rightarrow$$ This brings up need to teach this practitioners again an warm ***sensitivity***
 
-- Unfortunately such sensitivity can go against practitioner goals, and thus s/he chooses *insincerity*.
+- Unfortunately such sensitivity can go against practitioner goals, and thus s/he chooses *insincerity*. <br />
   $$\rightarrow$$ This brings up a need to teach it again in other way: now propagators invented ***authenticity***
 
-- But because this model is still about ruthlessness, it engages to learn and spread *assertiveness*.
+- But because this model is still about ruthlessness, it engages to learn and spread *assertiveness*. <br />
   $$\rightarrow$$ How assertiveness failed in large scale is well known. Now propagators invented ***soft skills***. The project became "perfect". All what you get from this is you cannot trust people anymore.
 
 
