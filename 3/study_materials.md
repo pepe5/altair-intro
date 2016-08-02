@@ -116,7 +116,7 @@ This all comes from having *emotional resilience* inseparably interconnected to 
 - People in cruel societies are encouraged to adapt there: *just for theirs sustainable future*. This makes societies to be unsustainable even more.
 
 
-- That this never-ending infection of ruthlessness is not cured at all is visible at next attempt: ***multipliers*** is approach here to learn 1/ *responsibility of everyone to influence* positively; and 2/ to be positive in sense of intelligence at all. <br />
+- That this never-ending infection of ruthlessness is not cured at all is visible at next attempt: ***[multipliers](http://www.leadershipnow.com/leadingblog/2010/06/multipliers_how_the_best_leade.html)*** is approach here to learn 1/ *responsibility of everyone to influence* positively; and 2/ to be positive in sense of intelligence at all. <br />
   $$\rightarrow$$ i'd like to say that this new method brings me hope about new spurt in our cultural evolution; even when- and maybe even because of- fact that this new method brings and (i hope) somehow requires to distinguish between position of "responsibility-excluded" *mate* (which is just trying to vegetate or assertively exploit the surroundings) and position of "responsible" *leader* (which identifies with *mates'* success so much that s/he invests in it as into win-win goal).
   
   * you can see that this role (of *leader*) is much more about *defined hierarchy*; so here theory of *professionalism* comes into challenge:
