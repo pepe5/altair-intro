@@ -44,7 +44,7 @@ We can reflect innumerable dimensions of A's activity and conceptualize them in 
 
 The reason why negative declaration is more apropriate is that what people don't want (to get from others) is more specifiable. -- What people whish is more subjective in particular situations.
 
-### true friendship / true love
+## true friendship / true love
 Positive declaration can be based on (5) live-force elements for example:
 
 - A tries to be mindful towards B
@@ -96,7 +96,7 @@ From this we can see that in society we basically have 2 "propagandas":
 
 Now, let's return to dominating model, and try to identify weaknesses of that one and try to find spread alternatives around.
 
-Model of ***Emotional Resilience*** pulls practitioner to -
+### Model of ***Emotional Resilience*** pulls practitioner to -
 
 - (*profesional*) *ruthlessness* : it is expressed by saying *"Heed your own problems, instead of problems of others."*
   $$\rightarrow$$ This brings up need to teach this practitioners again an warm ***sensitivity***
@@ -117,7 +117,7 @@ This all comes from having *emotional resilience* inseparably interconnected to 
 - People in cruel societies are encouraged to adapt there: *just for theirs sustainable future*. This makes societies to be unsustainable even more.
 
 
-Model of ***profesionalism*** pulls people to elitarism
+### Model of ***profesionalism*** pulls people to elitarism
 1. It is *profesional* to be immoral: because it is more important to be professional than anything else.
 2. Profesionalism with unconditional adaption makes people to proclaim socialy spreat conflicts of interests as normal and thus necessary: in modern people management it is already official: "you have to be (morally) flexible".
 
