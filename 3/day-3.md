@@ -13,7 +13,7 @@ We obviously cannot have issues against 3E life here. We can only talk about our
 ### Practice of Kindness
 Our goal is to propagate and practice such labeling, where people feel to be welcomed, appreciated (in sense of understanding) and supported (in sense of integration) even when they are not perfectly enriched economically, physically, intellectually, or psychically, or any other way underperforming under lens of dominating religious labeling-systems.
 
--	We name this attitude Kindness (and we implement it by practicing 4 Immeasurables)
+-	We name this as attitude of ***Kindness*** (and we implement it by practicing 4 Immeasurables)
 -	Special intention is paid to not criticize a person for anything what is not act of aggression. And we do not relativize “*aggression*”: for us it is *only conscious* will to force (object of aggression) against his/her own will.
 
 
