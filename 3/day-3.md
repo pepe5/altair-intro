@@ -10,6 +10,13 @@ We obviously cannot have issues against 3E life here. We can only talk about our
 *   1<sup>st</sup> main message is that after our training we recall realistically harms of _“even small” violence_, privatism, and lying and thus we are clearly determined to go way free from that.
 *   2<sup>nd</sup> main message is that our internal society intensively oriented toward kindness, sharing, and transparency helps tremendously to us to be kind, sharing, and transparent **_easily_** -- without unreasonable effort (as it is in outside world) and thus that it is option available for not so strong, healthy, and reach of us.
 
+### Practice of Kindness
+Our goal is to propagate and practice such labeling, where people feel to be welcomed, appreciated (in sense of understanding) and supported (in sense of integration) even when they are not perfectly enriched economically, physically, intellectually, or psychically, or any other way underperforming under lens of dominating religious labeling-systems.
+
+-	We name this attitude Kindness (and we implement it by practicing 4 Immeasurables)
+-	Special intention is paid to not criticize a person for anything what is not act of aggression. And we do not relativize “*aggression*”: for us it is *only conscious* will to force (object of aggression) against his/her own will.
+
+
 ### Going for change
 
 Everyone has intention to change something: what we find, learn, and enjoy here is we can go for determined change non-violently:

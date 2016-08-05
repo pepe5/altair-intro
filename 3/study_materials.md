@@ -99,7 +99,7 @@ Now, let's return to dominating model, and try to identify weaknesses of that on
 ### Model of ***Emotional Resilience*** pulls practitioner to -
 
 - (*profesional*) *ruthlessness* : it is expressed by saying *"Heed your own problems, instead of problems of others."* <br />
-  $$\rightarrow$$ This brings up need to teach this practitioners again an warm ***sensitivity***
+  $$\rightarrow$$ This brings up a need to teach this practitioners again an warm ***sensitivity***
 
 - Unfortunately such sensitivity can go against practitioner goals, and thus s/he chooses *insincerity*. <br />
   $$\rightarrow$$ This brings up a need to teach it again in other way: now propagators invented ***authenticity***
@@ -113,7 +113,7 @@ This all comes from having *emotional resilience* inseparably interconnected to 
 - Ruthlessness expands to whole western society, we are not *brutal* as Sharia-ruled countries are; but in terms of *treating/protecting children* (outside of our families - in neighbors houses and in schools) - we still feels this as pain. Propaganda goes so far that victims are even punished for being "too weak".
 - Insincerity made grew *corruption* and prepared society ready to accept netocracy as standard.
 - In total, we can sense in contemporary society aggressiveness between different groups of activists. 
-- People in cruel societies are encouraged to adapt there: *just for theirs sustainable future*. This makes societies to be unsustainable even more.
+- People in cruel societies are encouraged to adapt there: *just for theirs sustainable future*. This makes societies to be unsustainable (from perspective of our values) even more.
 
 
 - That this never-ending infection of ruthlessness is not cured at all is visible at next attempt: ***[multipliers](http://www.leadershipnow.com/leadingblog/2010/06/multipliers_how_the_best_leade.html)*** is approach here to learn 1/ *responsibility of everyone to influence* positively; and 2/ to be positive in sense of intelligence at all. <br />
@@ -122,9 +122,62 @@ This all comes from having *emotional resilience* inseparably interconnected to 
   * you can see that this role (of *leader*) is much more about *defined hierarchy*; so here theory of *professionalism* comes into challenge:
 
 
-
 ### Model of ***professionalism*** pulls people to elitarism
 1. It is *profesional* to be immoral: because it is more important to be professional than anything else.
 2. Profesionalism with unconditional adaption makes people to proclaim socialy spreat conflicts of interests as normal and thus necessary: in modern people management it is already official: "you have to be (morally) flexible".
 
+Actually it seems like *emotional resilience* serves (and is strengthened for purpose of serving) to ***professionalism*** paradigm.
+
+This all here is because "high quality of (professional) service" is necessary to grasp competitive strenght.
+
+- let's try to discuss later alternatives to this blind way.
+
+
+
+## Assimilation of wider view
+
+### terms
+- ***labelling system*** (*system*) - as already described in (###), we use this term for any particular theory or propaganda. Here we especially mean by that any live-philosophy: In previous days, term used was *personal moral system*. Then some people tried to overcome *over-moralizing* atmosphere of that days and established other naming, but we here use old name even when the practitioner refuses this: The act of refusing is typical act of a moral system...
+- ***practitioner*** - Every *labeling system* has it's practitioner. We name just practiced systems as labeling system - there is no labelling system which stays not-practiced. Every labelling system can be practiced in deeper or bad consistency. You can always meet someone who misleads terms of the system to distorted meanings.
+- ***paradigm*** - a term of the system which dominates many live situations of the practitioner. There are many paradigms shared between different systems. You can imagine systems as species of living organisms, and paradigms as genes: they "fight" for dominance. In this analogy practitioners are like cells: the amount matters.
+- ***resistance*** (of some system against some paradigms) - we can see 2 kinds of it: 1/ active resistance and 2/ passive one. See bellow for examples.
+- ***propaganda fights*** - you can see, that some systems are acting friendly to some systems, but others are acting aggressively. Some systems cannot imagine that it is a possibility to not act aggressively to other systems. This itself is propaganda of predator-ship.
+
+### Western psychotherapy
+In previous section we described paradigms of *emotional resistance* and *professionalism*. - Those are typical paradigms of this system. As we discussed there already, we see that -
+- this system operates healthily in democratic and healthy environment.
+- In unhealthy environment it malfunctions - as it vitality relies on psychotherapist: for example there is paradigm of *healing anger*: This works only when you have healthy listener and enough of prepared space.
+- more over, this systems seems intolerant to other systems: it seems like it cannot accept other than controlling role to other systems.
+- system tends to be ignorant to other instances of it's kind: for example when meeting with propagator of system where contact with personal body is not emphasized, then nothing will move the propagator to emphasize it even when there are psychotherapies which emphasize it. In terms of our analogy it can be named as predisposition of system's genome to produce blind individuals. This relates with *professionalism*: professional needs to dominate as s/he is, there is no way to grow over borders at moment of act of service.
+- when meeting not-blinded instance, it seems as satisfying to experience it's immunity against over-moralizing.
+- agnosticism towards ethics is strength and weakness at the same time.
+
+
+### Buddhism
+- seems as most mature labeling-system to me. It is very liberal to other systems, while still (actively) immune against paradigms like *righteous anger*.
+- it seems that it so much mature because it incorporates models of solitaire masters and models of "man without goal"
+- diversity of its instances is strength and weakness at the same time.
+- it seems to be *passively resistant* against *emotional resistance* and *professionalism*: many groups are vector of these diseases.
+
+How the system operates without these 2 paradigms? ###
+
+### wider view paradigms
+In [day-3](https://altair.gitbooks.io/intro/content/3/day-3.html) we said that “*Our goal is to propagate and practice such labeling, where people feel to be welcomed, appreciated (in sense of understanding) and supported (in sense of integration) even when they are not perfectly enriched economically, physically, intellectually, or psychically, or if they are any other way underperforming under lens of dominating religious labeling-systems*”.
+
+- In this sense it can look like we welcome “everyone”; obviously not: we have other requirements than named ones. (You know already them: acceptance of data transparency, private-ownership handling-regulation, will to learn 3E, a position skills and co-house folklore and awareness of own-choice – own-happiness.
+
+In this system, people simply *can* be *underperforming in **emotional resistance***:
+- As far as they are *kind*, that moment they can be labile in self-experiencing
+- But if they fall to unkind self-expressing, as far as they are *non-directive*, it is still very OK
+- If they fall to directive self-expressing, as far as they are willing to be in [Blue-zone], it is still OK
+
+In this system, people simply *can* be *underperforming in **professionalism***:
+- Our company offers so reach infrastructure of mentoring and is organizing working positions so much stress-free that people can factually ease and relax in most of professions.
+- Let's name some: virtual mentoring, doubled workers, short periods, transparent history against blames, no exceptions in (easy) rules, …
+- We encourage our members on all levels of career to ask for assements (of experienced situations): you will only be apreciated (in your career profile) for ***integrative approach***
+
+In this system there is nothing for critics on:
+-	[M.Brodsky](http://kultura.zpravy.idnes.cz/brodsti-tatu-uz-svet-strasne-stval-duw-/divadlo.aspx?c=A020724_202056_divadlo_brt)
+-	[A.Jolie](https://en.wikipedia.org/wiki/Angelina_Jolie#Cancer_prevention_treatment)
+-	[Jess](http://ona.idnes.cz/detstvi-kojenec-batole-mimino-dk3-/spolecnost.aspx?c=A160803_115743_spolecnost_bib)
 
