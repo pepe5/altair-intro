@@ -148,14 +148,14 @@ In previous section we described paradigms of *emotional resistance* and *profes
 - this system operates healthily in democratic and healthy environment.
 - In unhealthy environment it malfunctions - as it vitality relies on psychotherapist: for example there is paradigm of *healing anger*: This works only when you have healthy listener and enough of prepared space.
 - more over, this systems seems intolerant to other systems: it seems like it cannot accept other than controlling role to other systems.
-- system tends to be ignorant to other instances of it's kind: for example when meeting with propagator of system where contact with personal body is not emphasized, then nothing will move the propagator to emphasize it even when there are psychotherapies which emphasize it. In terms of our analogy it can be named as predisposition of system's genome to produce blind individuals. This relates with *professionalism*: professional needs to dominate as s/he is, there is no way to grow over borders at moment of act of service.
+- system tends to be ignorant to other instances of it's kind: for example when meeting with propagator of system where contact with personal body is not emphasized, then nothing will move the propagator to emphasize it, even when there are psychotherapies which emphasize it. In terms of our analogy it can be named as predisposition of system's genome to produce blind individuals. This relates with *professionalism*: professional needs to dominate as s/he is, there is no way to grow over borders at moment of act of service.
 - when meeting not-blinded instance, it seems as satisfying to experience it's immunity against over-moralizing.
 - agnosticism towards ethics is strength and weakness at the same time.
 
 
 ### Buddhism
 - Seems as most mature labeling-system to me. It is very liberal to other systems, while still (actively) immune against paradigms like *righteous anger*.
-- It seems that it so much mature because it incorporates models of solitaire masters and models of "man without goal". In general, you are complete perfect with all 5 Chans, and if merged with 5 Bodhisattvas $$\rightarrow$$ then all 8 Motivations are perfect and well recognized as protected from *critics aggression* (in sense of *personal* matters; not in sense of general labeling-systems which are always good subject to constructive critics).
+- It seems that it so much mature because it incorporates models of solitaire masters and models of "man without goal". In general, you are complete perfect with all [5 Chans](https://en.wikipedia.org/wiki/Guifeng_Zongmi#Ch.C3.A1n_teachings), and if merged with 5 Bodhisattvas $$\rightarrow$$ then all 8 Motivations are perfect and well recognized as protected from *critics aggression* (in sense of *personal* matters; not in sense of general labeling-systems which are always good subject to constructive critics).
 - Diversity of its instances is strength and weakness at the same time.
 - It seems to be *passively resistant* against *emotional resistance* and *professionalism*: many groups are vector of these diseases.
 
