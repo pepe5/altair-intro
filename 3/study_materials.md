@@ -155,7 +155,7 @@ In previous section we described paradigms of *emotional resistance* and *profes
 
 ### Buddhism
 - Seems as most mature labeling-system to me. It is very liberal to other systems, while still (actively) immune against paradigms like *righteous anger*.
-- It seems that it so much mature because it incorporates models of solitaire masters and models of "man without goal". In general, you are complete perfect with all [5 Chans](https://en.wikipedia.org/wiki/Guifeng_Zongmi#Ch.C3.A1n_teachings), and if merged with 5 Bodhisattvas $$\rightarrow$$ then all 8 Motivations are perfect and well recognized as protected from *critics aggression* (in sense of *personal* matters; not in sense of general labeling-systems which are always good subject to constructive critics).
+- It seems that it so much mature because it incorporates models of solitaire masters and models of "man without goal". In general, you are complete perfect with all [5 Chans](https://en.wikipedia.org/wiki/Guifeng_Zongmi#Ch.C3.A1n_teachings), and if merged with 5 Bodhisattvas $$\rightarrow$$ then all 10 Motivations are perfect and well recognized as protected from *critics aggression* (in sense of *personal* matters; not in sense of general labeling-systems which are always good subject to constructive critics).
 - Diversity of its instances is strength and weakness at the same time.
 - It seems to be *passively resistant* against *emotional resistance* and *professionalism*: many groups are vector of these diseases.
 
