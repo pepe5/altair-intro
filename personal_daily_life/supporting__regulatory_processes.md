@@ -1,10 +1,10 @@
-## Supporting / Regulatory Processes {#supporting-regulatory-processes}
+# Supporting / Regulatory Processes {#supporting-regulatory-processes}
 
-### Queues {#queues}
+## Queues {#queues}
 
 …
 
-### Benefits & Sanctions {#benefits-sanctions}
+## Benefits & Sanctions {#benefits-sanctions}
 
 *   private properties are 2: 1/ “personal-comfort” facilities and 2/ stock shares
 *   stock shares cannot be taken away / buyed from company nor sold for private money - they “only” ensures that all owners will go down if one will go down…
@@ -13,6 +13,7 @@
 
 **_Main benefit -- is personal career_** -- specialization qualifications
 
+## Personal career
 *   We build personal qualifications by going deep in specializations in sequence of working positions on certain working place. -- Normal, isn’t it…
 *   1st is **_observer_** position - anyone can be observer anytime anywhere.
 *   **_guided_** position - can pass anyone too. By going through queue there - and through safety and hygienic procedures - and do it.
@@ -94,7 +95,7 @@ This obligatory circulation also makes 1 important thing:
 *   when choosing which service work-room one is going to use: s/he can orientate by current “personal equipment” of the future co-house.
 *   - by this, personal career becomes real business.
 
-### Stream profiles {#stream-profiles}
+## Stream profiles {#stream-profiles}
 
 We track flow of materials and services in detail. We try to cover every used categories of facilities both by primary tracking or calculated one. As we are not eco-centric, but humans-centric, we define tracking ‘backwards’: we start identifying tracked class at point of consumption, and then we are looking for its origins.
 
@@ -105,15 +106,15 @@ We measure:
 *   amount of consumed class
 *   frequency of transmittions and
 
-### Supporters - Couches, Informers, & Coordinators {#supporters-couches-informers-coordinators}
+## Supporters - Couches, Informers, & Coordinators {#supporters-couches-informers-coordinators}
 
 …
 
-### Regulators - Auditors, Whistlers, Police-caller/s {#regulators-auditors-whistlers-police-caller-s}
+## Regulators - Auditors, Whistlers, Police-caller/s {#regulators-auditors-whistlers-police-caller-s}
 
 …
 
-### Tech Infrastructure {#tech-infrastructure}
+## Tech Infrastructure {#tech-infrastructure}
 
 *   all medias are encrypted - this prevents from media stealing
 *   all communication is encrypted - this prevents from wiretapping
