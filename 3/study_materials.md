@@ -152,6 +152,8 @@ In previous section we described paradigms of *emotional resistance* and *profes
 - when meeting not-blinded instance, it seems as satisfying to experience it's immunity against over-moralizing.
 - agnosticism towards ethics is strength and weakness at the same time.
 
+- A success in this system depends on performance of- and experience of- adaptation: even when you have to experience it (inside), still you have to perform it outside.
+
 
 ### Buddhism
 - Seems as most mature labeling-system to me. It is very liberal to other systems, while still (actively) immune against paradigms like *righteous anger*.
