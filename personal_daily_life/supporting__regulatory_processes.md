@@ -13,7 +13,7 @@
 
 **_Main benefit -- is personal career_** -- specialization qualifications
 
-## Personal career
+## Personal career {#personal-career}
 *   We build personal qualifications by going deep in specializations in sequence of working positions on certain working place. -- Normal, isn’t it…
 *   1st is **_observer_** position - anyone can be observer anytime anywhere.
 *   **_guided_** position - can pass anyone too. By going through queue there - and through safety and hygienic procedures - and do it.
@@ -72,7 +72,7 @@ Everyone has its copy in his/her “personal IT facility”, it contains mainly 
 *   places subscriptions:In contrast to previous -where accepted tasks where labeled by category- here are tasks labeled by concrete place+time. By-this-made communities are usually much smaller. Here are mainly place-work roles and meetings visible - both to past, present, and future.
 *   public interests, priorities, (non-feedback) commentaries, and visions- used as “fuzzy watch-dogs” - when it is fed to search-engines
 
-#### Customization by closing from publicity: {#customization-by-closing-from-publicity}
+### Customization by closing from publicity: {#customization-by-closing-from-publicity}
 
 *   personal + family anamneza
 *   queues + watch-dogs subscriptions
@@ -81,7 +81,7 @@ Everyone has its copy in his/her “personal IT facility”, it contains mainly 
 
 …
 
-#### Personal career circulation: {#personal-career-circulation}
+### Personal career circulation: {#personal-career-circulation}
 
 We use “_house-hold circulations_” for these purposes:
 
