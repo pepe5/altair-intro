@@ -1,4 +1,4 @@
-# Supporting / Regulatory Processes {#supporting-regulatory-processes}
+# Supporting  Regulatory Processes { #
 
 ## Queues {#queues}
 
@@ -102,9 +102,9 @@ We track flow of materials and services in detail. We try to cover every used ca
 We have of course eco-centric fans, which tries to track things, but this is not obligatory.
 
 We measure:
-
 *   amount of consumed class
 *   frequency of transmittions and
+*   waves amplitude
 
 ## Supporters - Couches, Informers, & Coordinators {#supporters-couches-informers-coordinators}
 
@@ -112,6 +112,7 @@ We measure:
 
 ## Regulators - Auditors, Whistlers, Police-caller/s {#regulators-auditors-whistlers-police-caller-s}
 
+In extreme situation - if amount of our disgusted and competing members grows above limit capable to be moved to resignation, then the particular company is still always with chance to start it's shutdown by paying out it's stock shares. 
 …
 
 ## Tech Infrastructure {#tech-infrastructure}
