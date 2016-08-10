@@ -30,7 +30,10 @@ Now let's comment this *private income* mean little bit - because we need to und
 *   on the other hand, we as a company - wish to have our working positions ensured by *working resources* - replace-able as much as possible 
   -	 doesn't this collide? Is it?... 
 
-$$arrow$$ ...
+$$\arrow$$ we need to understand our motivations in context of our real possibilities. 
+  - when a man has ambition to become highly qualified in something, then supporting company's feedback can be perceived through (couching service)[#supporters-couches-informers-coordinators].
+  - on the other hand, the man can- and should- relax in company's offering - to self-realize and to be effectively appreciated in some concrete level of qualification and to not be pushed to scrape higher in never-ending manner. 
+
 …
 
 ### Personal Records {#personal-records}
