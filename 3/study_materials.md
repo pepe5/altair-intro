@@ -70,7 +70,7 @@ Beside Golden-rule theory, we have here more pro-systems-oriented models which d
 
 From this we can see that in society we basically have 2 "propagandas":
 
-1. ***self-centered / relativistic*** model: here win-lost is only option; or at least the option when 1 "gets" it, and 2$$^{nd}$$ "withstand to wait". 
+1. ***self-centered / relativistic*** model: here win-lost is only option; or at least the option when 1 "gets" it, and 2$$^{nd}$$ "withstand to wait".
    - on this modeling, whole western civilisation has been built. ***Golden-rule*** (all variants) makes it working on real society.
    - This whole is about "*dualistic*" "self"-awareness, which stands  *self concurring against others*.
    - Modern mainstream (psychotherapeutic) "psychology" propaganda sacrifices it as only valid interpretation of personal motivations. Social aspect then is built around "***Emotional Resilience***".
@@ -112,13 +112,13 @@ This all comes from having *emotional resilience* inseparably interconnected to 
 1. Emotional resilience mainly dictates to unconditionally adapt without any ethic self-reflection:
 - Ruthlessness expands to whole western society, we are not *brutal* as Sharia-ruled countries are; but in terms of *treating/protecting children* (outside of our families - in neighbors houses and in schools) - we still feels this as pain. Propaganda goes so far that victims are even punished for being "too weak".
 - Insincerity made grew *corruption* and prepared society ready to accept netocracy as standard.
-- In total, we can sense in contemporary society aggressiveness between different groups of activists. 
+- In total, we can sense in contemporary society aggressiveness between different groups of activists.
 - People in cruel societies are encouraged to adapt there: *just for theirs sustainable future*. This makes societies to be unsustainable (from perspective of our values) even more.
 
 
 - That this never-ending infection of ruthlessness is not cured at all is visible at next attempt: ***[multipliers](http://www.leadershipnow.com/leadingblog/2010/06/multipliers_how_the_best_leade.html)*** is approach here to learn 1/ *responsibility of everyone to influence* positively; and 2/ to be positive in sense of intelligence at all. <br />
   $$\rightarrow$$ i'd like to say that this new method brings me hope about new spurt in our cultural evolution; even when- and maybe even because of- fact that this new method brings and (i hope) somehow requires to distinguish between position of "responsibility-excluded" *mate* (which is just trying to vegetate or assertively exploit the surroundings) and position of "responsible" *leader* (which identifies with *mates'* success so much that s/he invests in it as into win-win goal).
-  
+
   * you can see that this role (of *leader*) is much more about *defined hierarchy*; so here theory of *professionalism* comes into challenge:
 
 
@@ -153,6 +153,12 @@ In previous section we described paradigms of *emotional resistance* and *profes
 - agnosticism towards ethics is strength and weakness at the same time.
 
 - A success in this system depends on performance of- and experience of- adaptation: even when you have to experience it (inside), still you have to perform it outside.
+  One example be "interpretation" of term ***emphatic*** skills:
+  *	(In contrast to Buddhist “interpretation”) here *empathy* is tightly connected with ability to *deal with others*:
+  *	Much better term for this thus would be ***social intelligence***
+  *	On the other hand, “inner aspect” of this “empathy” is not much appreciated:
+      o	At “normal people” this is not appreciated at all: you can hear judgements like “you think too much”, or “have you said it to him/her?”
+      o	At “professionals” it could be appreciated, if it is *professionally publicized*: here let’s recognize again, that it is “outer aspect” of this “empathy” what is appreciated: ability to sell it out.
 
 
 ### Buddhism
@@ -186,4 +192,3 @@ In this system there is nothing for critics on:
 -	[M.Brodsky](http://kultura.zpravy.idnes.cz/brodsti-tatu-uz-svet-strasne-stval-duw-/divadlo.aspx?c=A020724_202056_divadlo_brt)
 -	[A.Jolie](https://en.wikipedia.org/wiki/Angelina_Jolie#Cancer_prevention_treatment)
 -	[Jess](http://ona.idnes.cz/detstvi-kojenec-batole-mimino-dk3-/spolecnost.aspx?c=A160803_115743_spolecnost_bib)
-
