@@ -38,15 +38,15 @@ Because any Queue defines a Clusters around it (The Producers and The Clients), 
 
 #### vertical perspective
 
-*   Our companies cluster is Project (of Blue-network services) of which you you are engaged member!
-*   Our public services is Project (of our great public services) of which you you are engaged member!
-*   Our villages are Project (of self-sustainability) of which you you are engaged member!
+*   Our companies cluster is Project (of Blue-network services) of which you are engaged member!
+*   Our public services is Project (of our great public services) of which you are engaged member!
+*   Our villages are Project (of self-sustainability) of which you are engaged member!
 *   Your co-house is Project (of it’s Charter) of which you you are engaged member!
 *   Your career can be focused on moving some Project forward too.
 
 #### horizontal perspective
 
-*   Our ***KB-Capital*** drives our *knowledge-base*. It includes
+*   Our ***KB-Capital*** - project drives our *knowledge-base*. It includes
     - ***Qs***-catalog: focuses on IOs; see [Queues](https://altair.gitbooks.io/intro/content/detailed_intro/queues.html)
     - ***Products***-Catalog: focuses on what mainstream emphasizes: see [Qs to consumptions](https://altair.gitbooks.io/intro/content/detailed_intro/queues.html#qs-to-consumptions-of-materials).
     - ***Solutions***-catalog: focuses on identifying Values of *Needs* and *Labeling of Directions* - how to understand them. It takes eventual Projects as black-boxes: here we focus on mapping Need--Satisfaction experiences and on comparison of various Need-understandings and particular Satisfaction understandings rather then on technical steps of each particular solution.

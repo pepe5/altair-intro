@@ -14,7 +14,7 @@ Imagine, you wish to work on field with tractor, and unluckily your current co-h
 *   you will move to co-house 30kms to east, where tractors are mounted and
 *   after 3 months of newcomers training, you will gain the full-membership and get that machine to “intensive” _use_.
 
-But you have to understand, that that tractor is co-house property. (Only KIT is your private.)
+But you have to understand, that tractor is co-house property. (Only KIT is your private.)
 
 *   So because it is era of tractors, many other members came in these 3 months and joined the tractor’s queue: you are about 20 people per the machine currently
 *   This is because engines monolytes didn’t arrive long time already.
