@@ -12,7 +12,7 @@ Our landscape looks like this:
 |  | public-flats of co-houses | ↰ accessible for “visitors”, ie: places for personal-kits |
 | co-house shares: | co-house | eg: factories, hospitals, work-rooms,... |
 |  | co-garden | eg: open-air care-expensive facilities, eg: tractors |
-| private-land: | personal-garden | eg: "cell-parking" slot, field, plants, & toolings “locked” for a person |
+| **private-land:** | **personal-garden** | **eg: "cell-parking" slot, field, plants, & toolings “locked” for a person** |
 
 ### areas publicly walkable-through {#areas-publicly-walkable-through}
 
