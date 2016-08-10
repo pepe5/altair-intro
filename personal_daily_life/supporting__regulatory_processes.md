@@ -1,4 +1,4 @@
-# Supporting  Regulatory Processes { #
+# Supporting  Regulatory Processes
 
 ## Queues {#queues}
 
@@ -25,6 +25,12 @@
 *   Then we do not count seniority by more labels - we simply count number of performed tasks. (Tasks are highly categorized - and described in many materials.) So after all, all - observers, trainees, juniors, and seniors travel around working places and collect **_points in task categories_**.
 *   We do not measure speed. -- Our obligatory activities are obligatory in very slow pace.
 
+Now let's comment this *private income* mean little bit - because we need to understand it well, when we do have almost nothing else beside this... 
+*   we as a company - wish to have our members qualified as much as possible 
+*   on the other hand, we as a company - wish to have our working positions ensured by *working resources* - replace-able as much as possible 
+  -	 doesn't this collide? Is it?... 
+
+$$arrow$$ ...
 …
 
 ### Personal Records {#personal-records}
