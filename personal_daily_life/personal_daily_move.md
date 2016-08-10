@@ -19,7 +19,7 @@ Our landscape looks like this:
 *   All publicly walkable-through areas are here available for “use without modifications”. We rely on walkable-through landscape which is physical implementation of our transparency.
 *   Any modifying consumption is tracked - as you move in “public” - transparent from both sides (yours and maintenance)
 
-For example you can anytime walk through **_personal-garden_** of someone else, enjoy look, enjoy touch, but never modify anything without agreement of the person.
+For example you can anytime walk through **_co-garden_** of someone else, enjoy look, enjoy touch, but never modify anything without agreement of the person.
 
 ### areas for “visitors” {#areas-for-visitors}
 
