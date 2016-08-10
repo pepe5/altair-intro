@@ -1,6 +1,15 @@
 ## Clusters INTRO {#clusters-intro}
 
-*   Now, let’s name it in short:
+Term *cluster* points us to fact that *load balance* is inter-locked with *self-reliance*. *Self-sufficiency* is one of our high priorities: at global level, we are aspiring to be self-sufficient in almost everything. But of course on lower levels you cannot be self-sufficient in everything. So we mapped some level of self-sufficiency with some levels of our infrastructure:
+
+-   Our *companies cluster* -- aspires to be self-sufficient in almost everything!
+-   Our *companies* are going to be independent *economically*
+-   Our *villages* are going to be independent in "job" *commutation*. 
+-   Our *co-houses* are going to be independent in it's *specialization*.
+-   Our *families* are free from separation by commuting and free from loans because:
+-	Our *members* are self-sufficient in ***personal minimum comfort***:
+
+Now, let’s name it in short:
 
 ### Personal minimum -- Public’s fan co-houses {#personal-minimum-public-s-fan-co-houses}
 
