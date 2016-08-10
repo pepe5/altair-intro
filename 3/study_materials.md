@@ -153,8 +153,8 @@ In previous section we described paradigms of *emotional resistance* and *profes
 - agnosticism towards ethics is strength and weakness at the same time.
 
 - A success in this system depends on performance of- and experience of- adaptation: even when you have to experience it (inside), still you have to perform it outside.
-  One example be "interpretation" of term ***emphatic*** skills:
-  *	(In contrast to Buddhist “interpretation”) here *empathy* is tightly connected with ability to *deal with others*:
+  One example can be "interpretation" of term ***emphatic*** skills:
+  *	(In contrast to Buddhist “interpretation”) here *empathy* is tightly connected with ability to *deal with others*: you should *successfully* expose your "emphatic thoughts" to object of your empathy at best, or at least to someone where you benefites from it.
   *	Much better term for this thus would be ***social intelligence***
   *	On the other hand, “inner aspect” of this “empathy” is not much appreciated:
       o	At “normal people” this is not appreciated at all: you can hear judgements like “you think too much”, or “have you said it to him/her?”
@@ -169,6 +169,12 @@ In previous section we described paradigms of *emotional resistance* and *profes
 
 - In general sense it is agnostic to metaphysics (like dominant god existence, what was “created” when,  and if a man is mainly penetrated by Tao elements or chakra elements, …)
 - It is in wide sense agnostic even to if forceful protection is (spiritually) legitimate or not.
+
+- A success in this system depends mainly on *feelings*:
+   *	In sense of “inner success” – the more you “feel” the (studied) values, the more you success “on the path”
+  (Buddhists differentiate 2 matters in this, labeling them “feeling s/t.” and “perceiving s/t.”, and in advance retreats they differentiate even more to 4 or 5 matters.)
+
+   *	In sense of “outer success” – you depend on evaluation of “mentor of your studies”; but here significant is that when you “feel” the (studied) values, you are almost every time evaluated positively: this contrasts to classical western careers (like *western psychotherapy* is) in such a way that performant tasks are almost always *easy* in Buddhism. This ***performance easiness*** is consciously recognized in the west and intentionally supported: at our company, we go the same direction.
 
 
 How the system operates without these 2 paradigms? ###
