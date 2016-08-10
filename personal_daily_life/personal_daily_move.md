@@ -9,7 +9,7 @@ Our landscape looks like this:
 |  | public-facilities - non-flats | eg: roads, sheds, pub-trans. vehicles, spas,... |
 | public shares: | gardens of public co-houses | ie: fields, plants, & toolings of our great pub-fans |
 |  | public-zones of co-houses | ↲ publicly walkable-through, eg: toilets, kitchens,... |
-|  | public-flats of co-houses | ↰ accessible for “visitors”, ie: places for personal-kits |
+|  | public-flats of co-houses | ↰ accessible for “visitors”, ie: places for personal-kits "not-yet locked" currently |
 | co-house shares: | co-house | eg: factories, hospitals, work-rooms,... |
 |  | co-garden | eg: open-air care-expensive facilities, eg: tractors |
 | **private-land:** | **personal-garden** | **eg: "cell-parking" slot, field, plants, & toolings “locked” for a person** |
