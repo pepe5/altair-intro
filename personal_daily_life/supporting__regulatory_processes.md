@@ -30,10 +30,12 @@ Now let's comment this *private income* mean little bit - because we need to und
 *   on the other hand, we as a company - wish to have our working positions ensured by *working resources* - replace-able as much as possible 
   -	 doesn't this collide? Is it?... 
 
-$$\arrow$$ we need to understand our motivations in context of our real possibilities. 
-  - when a man has ambition to become highly qualified in something, then supporting company's feedback can be perceived through (couching service)[#supporters-couches-informers-coordinators].
+$$\rightarrow$$ we need to understand our motivations in context of our real possibilities. 
+  - when a man has ambition to become highly qualified in something, then supporting company's feedback can be perceived through [couching service](#supporters-couches-informers-coordinators).
   - on the other hand, the man can- and should- relax in company's offering - to self-realize and to be effectively appreciated in some concrete level of qualification and to not be pushed to scrape higher in never-ending manner. 
-
+  - so the man can ensure him/her self that company has interest in line with his/her (qualification) grow by tracking interest of his/her coach, and on the other hand s/he can be sure that company will prevent him/her from grasping some particular position by [circulating obligations](#personal-career-circulation)
+  -	 we do not have people-managers: *house-holder* cannot judge you from other view than perspective of *culture*
+  -	 your career netocracy is wired in level of positions: *position mentors* can discuss with each other your qualification level in order to offer to you "unseen"; but it is your chance here to see how unique way we practice: 1/ you can- and should- take advantage to track all discussions about you, and 2/ you can- and should- take advantage of obligatory availability of every position to everyone. 
 …
 
 ### Personal Records {#personal-records}
