@@ -4,6 +4,9 @@
 
 We are now for example working on documentary movie about some exemplary attempts on humanity implementation or humanity promotion.
 
+Red zone of our KB is publicized at <u> SCPP (Solution Concepts of Peoples’ Projects) </u> .
+
+
 #### “Partial projects” -- designed for “ordinary-people” {#partial-projects-designed-for-ordinary-people}
 
 -- These projects are designed as places where people cannot “live” - i.e.: where people cannot cooperate on production of personal / family needs of live. -- But from our perspective then this projects can be counted as valid humanity contributors only if those help the attendants to live healthy & happily -- sustainably and fully. -- This is not trivial task, but main responsibility is on attendants them-selves.
