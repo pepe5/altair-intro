@@ -4,7 +4,10 @@
 
 We are now for example working on documentary movie about some exemplary attempts on humanity implementation or humanity promotion.
 
-Red zone of our KB is publicized at <u> SCPP (Solution Concepts of Peoples’ Projects) </u> .
+Red zone of our KB is publicized at <u> SCPP (Solution Concepts of Peoples’ Projects) </u>; most emphasized view at this portal is STPP (SPECs-Tree of Peoples’ Projects).
+-	“PP” points to Parallel-Polis
+-	SPECs-Tree is 2D View where People are sorted out on X-axis, and Projects are sorted out on Y-axis.
+Particular sorting and filtering makes visible strongest (in representation) Solution and which Needs it supports and/or not-support.
 
 
 #### “Partial projects” -- designed for “ordinary-people” {#partial-projects-designed-for-ordinary-people}
