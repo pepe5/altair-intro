@@ -22,7 +22,7 @@ Main purpose of our KB is to sort-out (and visualize)
        
 3.   What seems to be unique here at us is, that voter votes for *what s/he wants*, not for propagator wants: Let's say, that the originating author has a "blog" post, describing several *Values*, *Objectives* and *Policies* in several sentences each. The evaluating voter comes then and marks just those sentences which he want to *comment and interpret"; s/he do so and if willing, s/he explicitly assess the *quoted range* by a number in interval of $$0-1$$: completely disagree -- completely agree.
 
-4.   By this way, new and new ranges are generated, still what is evaluated is every sentence particularly from the cited source.
+4.   By this way, new and new ranges are generated, still what is evaluated is every sentence particularly from the cited source. This way also we track preferences in *labeling phenomena* itself:  
 
 5.   Votings are made by these comments posted; what is usefull is that you can select a intended quoted range by ***query***. -- This can make ***evaluations varying (conditionaly) in the time***.
 
