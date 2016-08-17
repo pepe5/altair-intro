@@ -18,7 +18,7 @@ Main purpose of our KB is to sort-out (and visualize)
      - (potential) *preferences* of our community.
      - *potential* of each formulation.
      - *potential partners* of each of us.
-       <br />
+       &nbsp;<br />
        
 3.   What seems to be unique here at us is, that voter votes for *what s/he wants*, not for propagator wants: Let's say, that the originating author has a "blog" post, describing several *Values*, *Objectives* and *Policies* in several sentences each. The evaluating voter comes then and marks just those sentences which he want to *comment and interpret"; s/he do so and if willing, s/he explicitly assess the *quoted range* by a number in interval of $$0-1$$: completely disagree -- completely agree.
 
@@ -56,7 +56,6 @@ All of these projects are from our perspective partial-only, but we accept them 
 *   Plum Village - humanity wakening up contribution, small contact with true farming
 *   [TTZM](www.ic.org/directory/the-transcendent-zeitgeist-movement-ttzm/)
 *   Project Venus, Zeitgeist movement - tech understanding and solution contribution
-*   Ami Institute - humanity wakening up contribution
 *   [**wwoof**](http://www.wwoof.net) - enabling contact with good farming
 *   [domyZeSlamyaHliny.cz](http://www.domyzeslamyahliny.cz/) - tech solution contribution
 
