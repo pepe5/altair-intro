@@ -40,7 +40,6 @@ Our KB is organized as Semantic Wiki, with Sentence-oriented versioning, with se
 
 4.  Next, we incorporate *decomposition analysis*: we can increase assessment value when *parts* are positively evaluated and vice versa. In fact, evaluation is tracked by every single sentence. 
 
-
 5.  Next, we incorporate *synthetic computation*: This implements  *conditioning* of compounds -- the terms, paradigmas and projects.
 
 
