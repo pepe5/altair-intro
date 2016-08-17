@@ -23,7 +23,7 @@ Main purpose of our KB is to sort-out (and visualize)
 
 4.   By this way, new and new ranges are generated, still what is evaluated is every sentence particularly from the cited source.
 
-5.   Votings are made by these comments posted; what is usefull is that you can select a intended quoted range by ***query***. 
+5.   Votings are made by these comments posted; what is usefull is that you can select a intended quoted range by ***query***. -- This can make ***evaluations varying (conditionaly) in the time***.
 
 
 
