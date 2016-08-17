@@ -1,16 +1,19 @@
-## Some last ongoing projects {#some-last-ongoing-projects}
+# Some last ongoing projects {#some-last-ongoing-projects}
 
-### Documentary of recent Attempts world-wide {#documentary-of-recent-attempts-world-wide}
+## Documentary "engine" itself
 
-We are now for example working on documentary movie about some exemplary attempts on humanity implementation or humanity promotion.
-
-Red zone of our KB is publicized at <u> SCPP (Solution Concepts of Peoples’ Projects) </u>; most emphasized view at this portal is STPP (SPECs-Tree of Peoples’ Projects).
+Red zone of our KB is publicized at <u>SCPP (Solution Concepts of Peoples’ Projects)</u>; most emphasized view at this portal is STPP (SPECs-Tree of Peoples’ Projects).
 -	“PP” points to Parallel-Polis
 -	SPECs-Tree is 2D View where People are sorted out on Y-axis, and Projects are sorted out on X-axis. (Or vice versa.)
 Particular sorting and filtering makes visible strongest (in representation) Solution and which Needs it supports and/or not-support.
 
 
-#### “Partial projects” -- designed for “ordinary-people” {#partial-projects-designed-for-ordinary-people}
+
+## Documentary of recent Attempts world-wide {#documentary-of-recent-attempts-world-wide}
+
+We are now for example working on documentary movie about some exemplary attempts on humanity implementation or humanity promotion.
+
+### “Partial projects” -- designed for “ordinary-people” {#partial-projects-designed-for-ordinary-people}
 
 -- These projects are designed as places where people cannot “live” - i.e.: where people cannot cooperate on production of personal / family needs of live. -- But from our perspective then this projects can be counted as valid humanity contributors only if those help the attendants to live healthy & happily -- sustainably and fully. -- This is not trivial task, but main responsibility is on attendants them-selves.
 
@@ -23,7 +26,7 @@ All of these projects are from our perspective partial-only, but we accept them 
 *   [**wwoof**](http://www.wwoof.net) - enabling contact with good farming
 *   [domyZeSlamyaHliny.cz](http://www.domyzeslamyahliny.cz/) - tech solution contribution
 
-#### Massmedia attempts {#massmedia-attempts}
+### Massmedia attempts {#massmedia-attempts}
 
 *   Both organizations-held and individual attempts are valuable.
 
@@ -47,14 +50,14 @@ Just something
 *   Earth - Home
 *   Baraka, Cronos, *quaci/s
 
-#### Religion, doctrine, lineage -attached attempts {#religion-doctrine-lineage-attached-attempts}
+### Religion, doctrine, lineage -attached attempts {#religion-doctrine-lineage-attached-attempts}
 
 *   sikhs - seems like most “pure” formation around mono-teistic doctrine
 *   hutterites - only acceptable christianity-based attempt
 *   [zenPeaceMakers.org](http://zenpeacemakers.org)
 *   ..
 
-#### Projects designed as communities {#projects-designed-as-communities}
+### Projects designed as communities {#projects-designed-as-communities}
 
 -- We expects from them mainly commitment to humanity / kindness.
 
