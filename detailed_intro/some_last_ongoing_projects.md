@@ -21,6 +21,12 @@ Main purpose of our KB is to sort-out (and visualize)
 
 3.   What seems to be unique here at us is, that voter votes for *what s/he wants*, not for propagator wants: Let's say, that the originating author has a "blog" post, describing several *Values*, *Objectives* and *Policies* in several sentences each. The evaluating voter comes then and marks just those sentences which he want to *comment and interpret"; s/he do so and if willing, s/he explicitly assess the *quoted range* by a number in interval of $$0-1$$: completely disagree -- completely agree.
 
+4.   By this way, new and new ranges are generated, still what is evaluated is every sentence particularly from the cited source.
+
+5.   Votings are made by these comments posted; what is usefull is that you can select a intended quoted range by ***query***. 
+
+
+
 ### Spectography / Filtering
 
 Our KB is organized as Semantic Wiki, with Sentence-oriented versioning, with several analysis and visualising extensions:
@@ -29,9 +35,9 @@ Our KB is organized as Semantic Wiki, with Sentence-oriented versioning, with se
 
 2.  Next, we incorporate *time / versioning*.
 
-3.  Next, we incorporate (simple) *logic*: at this view, we use negative numbers for contradiction.
+3.  Next, we incorporate (simple) *logic*: at this view, we use negative numbers for contradiction. This also can incorporate *conditioning* -- parameterization of the filter.
 
-4.  Next, we incorporate *decomposition analysis*: we can increase assessment value when *parts* are positively evaluated and vice versa.
+4.  Next, we incorporate *decomposition analysis*: we can increase assessment value when *parts* are positively evaluated and vice versa. In fact, evaluation is tracked by every single sentence. 
 
 
 ## Documentary of recent Attempts world-wide {#documentary-of-recent-attempts-world-wide}
