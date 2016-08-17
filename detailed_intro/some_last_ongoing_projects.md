@@ -27,6 +27,12 @@ Our KB is organized as Semantic Wiki, with Sentence-oriented versioning, with se
 
 1.  1$$st$$ of all, we do not put negative numbers in the assessment. In our *raw-view*, we can only *distance* ourself from a statement. By this view, we can make 1$$st$$ filter by masking unfilled relations by $$0.5$$.
 
+2.  Next, we incorporate *time / versioning*.
+
+3.  Next, we incorporate (simple) *logic*: at this view, we use negative numbers for contradiction.
+
+4.  Next, we incorporate *decomposition analysis*: we can increase assessment value when *parts* are positively evaluated and vice versa.
+
 
 ## Documentary of recent Attempts world-wide {#documentary-of-recent-attempts-world-wide}
 
