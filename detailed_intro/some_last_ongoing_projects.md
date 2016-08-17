@@ -14,7 +14,10 @@ Main purpose of our KB is to sort-out (and visualize)
     What we can emphasise here is that we name starting point as *Need* because from our perspective good formulation of *problem* is in terms of Need, and *Proposal* should be oriented toward public as *Solution of some concrete Need*.
     This way also we nicely experience that *formulation of need* is not something absolute*.
     
-2.   Then we vote for- (or "against"-) every that *need **formulation*** and *solution **proposal***. This way we gather large understanding of *preferences* and *potential* of our community.
+2.   Then we vote for- (or "against"-) every that *need **formulation*** and *solution **proposal***. This way we gather large understanding of 
+     - (potential) *preferences* of our community.
+     - *potential* of each formulation.
+     - *potential partners* of each of us.
 
 3.   What seems to be unique here at us is, that voter votes for *what s/he wants*, not for propagator wants: Let's say, that the originating author has a "blog" post, describing several *Values*, *Objectives* and *Policies* in several sentences each. The evaluating voter comes then and marks just those sentences which he want to *comment and interpret"; s/he do so and if willing, s/he explicitly assess the *quoted range* by a number in interval of 0-1: completely disagree -- completely agree.
 
