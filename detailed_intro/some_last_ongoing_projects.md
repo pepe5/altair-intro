@@ -21,6 +21,11 @@ Main purpose of our KB is to sort-out (and visualize)
 
 3.   What seems to be unique here at us is, that voter votes for *what s/he wants*, not for propagator wants: Let's say, that the originating author has a "blog" post, describing several *Values*, *Objectives* and *Policies* in several sentences each. The evaluating voter comes then and marks just those sentences which he want to *comment and interpret"; s/he do so and if willing, s/he explicitly assess the *quoted range* by a number in interval of 0-1: completely disagree -- completely agree.
 
+### Filtering
+
+Our KB is organized as Semantic Wiki, with Sentence-oriented versioning, with several analysis and visualising extensions:
+
+
 
 
 ## Documentary of recent Attempts world-wide {#documentary-of-recent-attempts-world-wide}
