@@ -36,9 +36,12 @@ Our KB is organized as Semantic Wiki, with Sentence-oriented versioning, with se
 
 2.  Next, we incorporate *time / versioning*.
 
-3.  Next, we incorporate (simple) *logic*: at this view, we use negative numbers for contradiction. This also can incorporate *conditioning* -- parameterization of the filter.
+3.  Next, we incorporate (simple) *logic*: at this view, we use negative numbers for contradiction. This also can incorporate *conditioning* of atomic elements (the sentences) -- parameterization of the filter.
 
 4.  Next, we incorporate *decomposition analysis*: we can increase assessment value when *parts* are positively evaluated and vice versa. In fact, evaluation is tracked by every single sentence. 
+
+
+5.  Next, we incorporate *synthetic computation*: This implements  *conditioning* of compounds -- the terms, paradigmas and projects.
 
 
 ## Documentary of recent Attempts world-wide {#documentary-of-recent-attempts-world-wide}
