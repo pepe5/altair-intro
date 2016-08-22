@@ -40,7 +40,7 @@ Our KB is organized as Semantic Wiki, with Sentence-oriented versioning, with se
 
 4.  Next, we incorporate *decomposition analysis*: we can increase assessment value when *parts* are positively evaluated and vice versa. In fact, evaluation is tracked by every single sentence. 
 
-5.  Next, we incorporate *synthetic computation*: This implements  *conditioning* of compounds -- the terms, paradigms and projects.
+5.  Next, we incorporate *synthetic computation*: This implements  *conditioning* of compounds -- the terms, paradigms and projects. It involves mechanism of SPECifications (in forms of *formula*): composing lists are fulfilled in percentage of sum or multiplication of it's items.
 
 6.  Next, we incorporate *cognitive computation*: Most important is fundamental one: 2-factors evaluation of *relevance* and of *support* on scales of ($$0-1$$): The statement gain additional score of any other statement which is relevant and supports it's meaning. (Other cognitive computations like *implications* requires predicative quantification which is under heavy development, and not yet production ready.)
 
