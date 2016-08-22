@@ -42,6 +42,8 @@ Our KB is organized as Semantic Wiki, with Sentence-oriented versioning, with se
 
 5.  Next, we incorporate *synthetic computation*: This implements  *conditioning* of compounds -- the terms, paradigms and projects.
 
+6.  Next, we incorporate *cognitive computation*: Most important is fundamental one: 2-factors evaluation of *relevance* and of *support* on scales of ($$0-1$$): The statement gain additional score of any other statement which is relevant and supports it's meaning. (Other cognitive computations like *implications* requires predicative quantification which is under heavy development, and not yet production ready.)
+
 
 ## Documentary of recent Attempts world-wide {#documentary-of-recent-attempts-world-wide}
 
