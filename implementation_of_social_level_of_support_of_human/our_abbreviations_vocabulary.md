@@ -6,7 +6,7 @@
 
 #### KB {#kb}
 
-*   our shared knowledge-base
+*   our shared knowledge-base: it is catalog of our heritage, structured to common zones, like [Red for the external public](https://altair.gitbooks.io/intro/content/detailed_intro/some_last_ongoing_projects.html#documentary-engine-itself), [Green for inner Capital](https://altair.gitbooks.io/intro/content/personal_daily_life/clusters_intro.html#horizontal-perspective), Blue for sensitive data: nice point here is, that a user can mark his data-range as Blue by conditioning: for example visible only for those with correlating data...
 
 #### KIT {#kit}
 
