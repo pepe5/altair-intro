@@ -6,6 +6,7 @@
 * [Basic structure of organization](basic_structure_of_organization/README.md)
    * [Qualities of all work positions - related to living in general](basic_structure_of_organization/qualities_of_all_work_positions_-_related_to_livin.md)
    * [Common heritage](basic_structure_of_organization/common_heritage.md)
+   * [Common heritage](basic_structure_of_organization/red_goal_for_new_farms.md)
 * [Personal daily life](personal_daily_life/README.md)
    * [Personal daily move](personal_daily_life/personal_daily_move.md)
    * [Personal shares/memberships](personal_daily_life/personal_sharesmemberships.md)

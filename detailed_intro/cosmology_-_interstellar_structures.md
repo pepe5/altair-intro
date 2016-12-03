@@ -16,7 +16,7 @@
 *   red - starting on day, when hiring starts -- establishing part-time contracts with sharing obligations→ going for orange day:
 *   orange - starts internal factories→ going for orange day: day of independence from suppliers of primary facilities.
 *   yellow - starts providing live-long 'benefits' -- family services→ going for yellow day: day of independence from economic outcome (= from outcome generating money for external services, mainly those for health-care)
-*   green - join of 3<sup>rd</sup> (farm) cell to local island→ going for green day: day of independence from dark suppliers (mainly those electronic ones)
+*   green - joint of 3<sup>rd</sup> (farm) cell to local island→ going for green day: day of independence from dark suppliers (mainly those electronic ones)
 *   blue - starts 1<sup>st</sup> inter-dependence inter-national inter-connection -- establishing 'blue sphere service' -- mutual quality care→ becoming to form of international company, going for blue day: day of independence from taxation of profit (by zeroing international monetary IO)→ going for governmental municipalities status
 
 #### Perspective of parallel milestones {#perspective-of-parallel-milestones}

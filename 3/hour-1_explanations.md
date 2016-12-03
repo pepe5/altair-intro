@@ -41,7 +41,7 @@ But it could be good to relate 3 ‘E’s to kind of social levels:
 
 1.  _deep_ Ecology → **_healthy_** attitude & interaction to _yourself_
 2.  _wide_ Ethics → **_warm_** (long-term friendly & functionally fruitful) attitude & interaction to _closests_
-3.  _high_ Esthetics → **_harmonic_** attitude & interaction to _society_ -- in meaning of gratefully giving to society is what people learns when going out from vulturistic self-understanding in society. Let's be aware about our esthetics criteria: we never use others than 1/ naturality - in health / buddhistic sense, 2/ usefulness - in sense of counting with all participants - including nature inhabitants, and 3/ cleanliness - in sense of transmittance of the field of attention. We reject all styles and styling competing other than on co-houses exchange.
+3.  _high_ Esthetics → **_harmonic_** attitude & interaction to _society_ -- in meaning of gratef giving to society is what people learns when going out from vulturistic self-understanding in society. Let's be aware about our esthetics criteria: we never use others than 1/ naturality - in health / buddhistic sense, 2/ usefulness - in sense of counting with all participants - including nature inhabitants, and 3/ cleanliness - in sense of transmittance of the field of attention. We reject all styles and styling competing other than on co-houses exchange.
 
 ### agreeing on interaction color {#agreeing-on-interaction-color}
 
